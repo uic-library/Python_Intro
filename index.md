@@ -19,9 +19,6 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 > Problem Solving (["Think Like a Computer Scientist"](http://openbookproject.net/thinkcs/python/english3e/))
 
 
-{: .prereq}
-
-
 ## Workshop Content 
 
 | Section    | Overview | Time Estimate |
