@@ -17,12 +17,7 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 - Solve basic problems using python.
 
 <br>
-> ## Pre-requisites
-> __STOP:__ before starting this workshop, please attend the following Digital Scholarship Lab workshop(s) before completing this one:
-> * [Workshop Title Here](https://researchguides.uic.edu/hub/workshops)  
->   
-> __OR__ make sure you're comfortable with the following concepts (study suggestions in parentheses)  
-> 
+## Pre-requisites
 > Problem Solving (["Think Like a Computer Scientist"](http://openbookproject.net/thinkcs/python/english3e/))
 
 
