@@ -22,7 +22,10 @@ keypoints:
 ---
 
 ## Software setup
+We will be using Jupyter notebook for this workshop. We install the Anaconda navigator. Anaconda is an open source distribution, which provides the easiest way to code in python, especially for data science.
 
+INSTALLATION:
+1) 
 FIXME add/edit  install instructions (automated, see comment)
 
 {% comment %} to add automated software install instructions, add instructions available in the install instructions 
