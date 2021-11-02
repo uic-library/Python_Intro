@@ -11,12 +11,10 @@ This workshop focuses on the basic level aspects of python like- variables, loop
 
 We will be using Jupyter notebook for this workshop. For instructions regarding the installation of Jupyter, please visit- 
 
-{% comment %} briefly list workshop goals below - should be the same as the objectives from each workshop section (also repeated in the workshop overview) {% endcomment %}
 
 ## Workshop goals
 - Solve basic problems using python.
 
-<br>
 ## Pre-requisites
 > Problem Solving (["Think Like a Computer Scientist"](http://openbookproject.net/thinkcs/python/english3e/))
 
