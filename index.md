@@ -16,7 +16,7 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 - Solve basic problems using python.
 
 ## Pre-requisites
-> Problem Solving (["Think Like a Computer Scientist"](http://openbookproject.net/thinkcs/python/english3e/))
+> Problem Solving (["Think Python: How to Think Like a Computer Scientist- Allen B. Downey"](https://greenteapress.com/thinkpython/html/index.html))
 
 
 ## Workshop Content 
