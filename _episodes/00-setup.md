@@ -25,7 +25,29 @@ keypoints:
 We will be using Jupyter notebook for this workshop. We install the Anaconda navigator. Anaconda is an open source distribution, which provides the easiest way to code in python, especially for data science.
 
 INSTALLATION:
-1) 
+<br></br>
+FOR WINDOWS USERS:
+
+1) Go to the following link: https://www.anaconda.com/products/individual
+2) Click on the download button and wait for the .EXE file to be downloaded.
+3) Double click on the dowloaded file to launch the installer.
+4) Click Next.
+5) Read the Licensing agreement and click "I agree".
+6) Select "Just me" and click "Next"
+7) Select a destination folder to install Anaconda and click the Next button.
+8) Uncheck the add Anaconda to your PATH environment variable and check the register Anaconda as your default Python. Click Install
+9) Click Next
+10) Click Next. There is an option to install Pycharm. However, we do not need this tool for this workshop.
+11) After a successful installation you will see the “Thanks for installing Anaconda” dialog box
+
+FOR MAC USERS:
+
+1) Download the macos installer by going to the following link https://www.anaconda.com/products/individual and clock on download
+2) Open the file my double clicking on it and start the installation.
+3) Answer the prompts on the screen.
+4) In stallation type, select "Install for me only"
+5) Click on continue.
+6) After a successful installation you will see the “Thanks for installing Anaconda” dialog box
 FIXME add/edit  install instructions (automated, see comment)
 
 {% comment %} to add automated software install instructions, add instructions available in the install instructions 
