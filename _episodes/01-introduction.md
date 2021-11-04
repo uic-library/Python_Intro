@@ -9,8 +9,8 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
-THE 5'W OF PYTHON
+
+W's OF PYTHON
 
 WHAT IS PYTHON?
 
