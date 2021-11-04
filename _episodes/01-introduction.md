@@ -23,10 +23,10 @@ Python is easy to pick up.It has various inbuilt libraries that can be used to s
 WHO DEVELOPED PYTHON?
 
 Python was created by Guido van Rossum, and first released on February 20, 1991. He stated his goals for python as 
-> an easy and intuitive language just as powerful as those of the major competitors;
-> open source, so anyone can contribute to its development;
-> code that is as understandable as plain English;
-> suitable for everyday tasks, allowing for short development times.
+- an easy and intuitive language just as powerful as those of the major competitors;
+- open source, so anyone can contribute to its development;
+- code that is as understandable as plain English;
+- suitable for everyday tasks, allowing for short development times.
 
 
 
