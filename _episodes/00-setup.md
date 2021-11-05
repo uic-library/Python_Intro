@@ -48,7 +48,16 @@ FOR MAC USERS:
 4) In stallation type, select "Install for me only"
 5) Click on continue.
 6) After a successful installation you will see the “Thanks for installing Anaconda” dialog box
-FIXME add/edit  install instructions (automated, see comment)
+
+NOTE:
+While we are using jupyter notebook for the purpose of this workshop, we can use any text editor to write our program and run it using the terminal/command prompt.
+To do so-
+1) Open the command prompt/terminal and type pip install python3
+2) Once the installation is complete, open any editor and type you code in it. Make sure you save the file with a .py extension.
+3) Go to the command prompt/terminal and navigate to the filder where the file is saved.
+4) type python3 <name of the file>.py 
+
+  FIXME add/edit  install instructions (automated, see comment)
 
 {% comment %} to add automated software install instructions, add instructions available in the install instructions 
 folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
