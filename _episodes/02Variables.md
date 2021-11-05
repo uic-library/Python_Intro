@@ -41,3 +41,11 @@ a=str(13456)
 b=int("1234")
 c=float(55)
 ~~~
+
+POLICY FOR NAMING VARIABLES
+
+Variables in python should follow the given rules
+- Variable names should start with letter or underscore(_).
+- Variable names can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+- Variables are case sensitive(name, Name, NaMe are all different)
+
