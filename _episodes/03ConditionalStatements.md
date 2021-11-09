@@ -25,3 +25,76 @@ if 'no' in lis1:
   print('Nothing')
 print('Done')
 ~~~
+
+---
+
+ELIF STATEMENT
+
+The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE
+
+~~~
+name = 'xyz'
+
+
+if name=='Jo':
+  print('Hi Jo')
+elif name=='Mark':
+  print('Hi Mark')
+elif name=='Frank':
+  print('Hi Frank')
+elif name=='Mike':
+  print('Hi Mike')
+else:
+  print('No match found')
+~~~
+
+---
+
+WHILE LOOP
+
+The while loop is used to execute a set of statements as long as a condition is true.
+
+~~~
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+~~~
+We use the BREAK and CONTINUE statements to control the flow of the loop
+
+Break is used to exit the loop
+
+~~~
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
+~~~
+
+Continue is used to stop the current iteration, and continue with the next
+
+~~~
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
+~~~
+
+
+---
+
+FOR LOOP
+
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+~~~
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+~~~
+The for loop also has break and continue operators like the while loop
+
