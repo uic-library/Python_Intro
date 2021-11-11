@@ -62,8 +62,9 @@ To do so-
 {% comment %} to add automated software install instructions, add instructions available in the install instructions 
 folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
 
-{% include install_instructions/editor.html %}
-{% include install_instructions/videoconferencing.html %}
+{% include install_instructions/editor.html %}   
+{% include install_instructions/videoconferencing.html %}  
+{% include install_instructions/python.html %}
 
 ## Setup files:
 
