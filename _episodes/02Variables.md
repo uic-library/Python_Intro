@@ -34,13 +34,6 @@ print(x)
 print(name)
 ~~~
 
-TYPE CASTING
-Type casting is a technique used to convert the data type of the value. In python you can use the following functions to convert the data types:
-~~~
-a=str(13456)
-b=int("1234")
-c=float(55)
-~~~
 
 POLICY FOR NAMING VARIABLES
 
