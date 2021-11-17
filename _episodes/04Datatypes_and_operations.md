@@ -7,9 +7,8 @@ Python has the following data types built-in by default, in these categories:
 Numeric Types:	int, float, complex
 Sequence Types:	list, tuple, Strings
 Mapping Type:	dict
-Set Types:	set, frozenset
+Set Types:	set
 Boolean Type:	bool
-Binary Types:	bytes, bytearray, memoryview
 
 NUMERIC TYPES:
 There are 3 numeric types-
@@ -30,9 +29,12 @@ MAPPING TYPE:
 Maps are a data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In python, we use dictionary data type as a map. Dictionary holds key:value pair. Each key-value pair in a Dictionary is separated by a colon :, whereas each key is separated by a ‘comma’.A Dictionary can be created by placing a sequence of elements within curly {} braces.Dictionary can also be created by the built-in function dict().
 NOTE: Keys cannot be repeated in dictionary.
 
+SET:
+In Python, Set is an unordered collection of data type that is iterable, mutable and has no duplicate elements.Sets can be created by using the built-in set() function with an iterable object or a sequence by placing the sequence inside curly braces, separated by ‘comma’. Type of elements in a set need not be the same.
 
-
-
+BOOLEAN TYPE:
+Boolean is Data type with one of the two built-in values, True or False.
+Note – True and False with capital ‘T’ and ‘F’ are the only valid booleans.
 
 
 
