@@ -53,4 +53,50 @@ print(len(lis1))     # The len() function is used to get the length of the list
 lis3= lis1+lis2      #Adding/Concatenating two lists
 print(lis3)
 print(lis3[-3:])     #Prints last 3 elements
+
+#Checking if an element is present in the list
+lis5=['Illinois','Indiana','Texas','Florida']
+
+'Illinois' in lis5   #The 'in' statement checks whether certain element is present in the list or not. If the element is present it returns True else False
+'Arizona' in lis5
+'Arizona' not in lis5 #Similar to 'in' statement
+
+#Min Max Function
+lis6=[1,34,73,67,99,22,3,4]
+
+print(min(lis6))
+print(max(lis6))
+
+#Adding value to the list
+lis6.append(56)     #Appends only one element at the end of the list
+print(lis6)
+lis6.extend([11,2,33]) #Appends multiple elements at the end of the list
+print(lis6)
+
+lis6.insert(0,90)   #Inserts element at the mentioned index
+print(lis6)
+
+#Sorting elements in a list
+
+lis7=[-6,1,-1,-5,3,6,7,8,22,5,4]
+
+lis7.sort()         #Sorts elements in ascending order
+
+print(lis7)
+
+#Sorted function
+
+lis8=[-3,11,2,3,8,4,1,5,-5,-8,-10,10]
+
+print(sorted(lis8)) #Prints the sorted list
+
+print(lis8)         #Prints the original list. Sorted function doesnot change the original list whereas sort function does
+
+#Reassigning a list
+print(lis8)
+
+lis8[0]=100         #Assigns index 0 as 100
+
+print(lis8)
+
 ~~~
