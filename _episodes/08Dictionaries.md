@@ -1,3 +1,17 @@
+---
+title: "Introduction"
+teaching: 0
+exercises: 0
+questions:
+- "Key question (FIXME)"
+objectives:
+- "First learning objective. (FIXME)"
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
+---
+
+
+
 
 WHAT ARE DICTIONARIES?
 A dictionary is a datatype that stores data in key value pairs.The key and value have a colon between them(:) and the key:value pairs are seperated by "," It is ordered*, changeable and do not allow duplicates.
