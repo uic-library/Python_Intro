@@ -59,12 +59,12 @@ x
 > ## Challenge: Working with dictionaries  
 > Explanation of challenge here  
 > more explantion  
->> ## Solution  
->> answer to challenge here  
->> ~~~  
->> code   
->> ~~~  
->> {: .output}    
+> > ## Solution  
+> > answer to challenge here  
+> > ~~~  
+> > code   
+> > ~~~  
+> > {: .output}    
 > {: .solution}  
 {: .challenge}  
 
