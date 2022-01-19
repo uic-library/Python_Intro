@@ -56,17 +56,21 @@ x
 ~~~
 {: .output
 
-> ## Challenge: Working with dictionaries
-> Explanation of challenge here
-> more explantion
->> ## Solution
->> answer to challenge here
->> ~~~
->> code 
->> ~~~
->> {: .output}
-> {: .solution}
-{: .challenge}
+> ## Challenge: Working with dictionaries  
+> Explanation of challenge here  
+> more explantion  
+>> ## Solution  
+>> answer to challenge here  
+>> ~~~  
+>> code   
+>> ~~~  
+>> {: .output}    
+> {: .solution}  
+{: .challenge}  
+
+paragraph
+
+paragraph
 
 
 {% include links.md %}
