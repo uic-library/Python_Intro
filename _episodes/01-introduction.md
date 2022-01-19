@@ -57,9 +57,11 @@ x
 {: .output
 
 > ## Challenge: Working with dictionaries  
+> 
 > Explanation of challenge here  
 > more explantion  
 > > ## Solution  
+> > 
 > > answer to challenge here  
 > > ~~~  
 > > code   
