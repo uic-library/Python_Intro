@@ -28,6 +28,45 @@ Python was created by Guido van Rossum, and first released on February 20, 1991.
 - code that is as understandable as plain English;
 - suitable for everyday tasks, allowing for short development times.
 
+* bullets
+- bullets
+  - sub-bullets
+
+*italics*
+_italics_
+**bold**
+__bold__
+
+# H1
+## H2 
+...etc
+
+[text for link](https://...)
+
+images
+![brief description image](../fig/file-name.png)
+~~~
+x = 1
+x
+~~~
+{: .language-python}
+
+~~~
+1
+~~~
+{: .output
+
+> ## Challenge: Working with dictionaries
+> Explanation of challenge here
+> more explantion
+>> ## Solution
+>> answer to challenge here
+>> ~~~
+>> code 
+>> ~~~
+>> {: .output}
+> {: .solution}
+{: .challenge}
 
 
 {% include links.md %}
