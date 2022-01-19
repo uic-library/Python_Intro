@@ -54,7 +54,7 @@ x
 ~~~
 1
 ~~~
-{: .output
+{: .output}
 
 > ## Challenge: Working with dictionaries  
 > 
