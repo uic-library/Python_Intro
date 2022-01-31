@@ -1,5 +1,5 @@
 ---
-title: "Datatypes_and_operations"
+title: "Datatypes and operations"
 teaching: 0
 exercises: 0
 questions:
@@ -9,6 +9,8 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
+
+## What is a data-type?
 Data type is an attribute associated with a piece of data that tells a computer system how to interpret its value. Understanding data types ensures that data is collected in the preferred format and the value of each property is as expected.
 
 Python has the following data types built-in by default, in these categories:
@@ -31,7 +33,7 @@ Boolean Type:	bool
 
 
 
-NUMERIC TYPES:
+### Numeric type:
 
 
 There are 3 numeric types-
@@ -48,7 +50,7 @@ COMPLEX: An complex number is represented by “ x + yi “. Python converts the
 
 
 
-SEQUENCE TYPE:
+### Sequence typeE:
 In Python, sequence is an ordered collection of various object. These objects could be of similar or different data types. 
 
 
@@ -65,24 +67,26 @@ Strings are arrays of bytes representing Unicode characters. A string is a colle
 
 
 
-MAPPING TYPE:
+### Mapping type:
 
 
-Maps are a data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In python, we use dictionary data type as a map. Dictionary holds key:value pair. Each key-value pair in a Dictionary is separated by a colon :, whereas each key is separated by a ‘comma’.A Dictionary can be created by placing a sequence of elements within curly {} braces.Dictionary can also be created by the built-in function dict().
+Maps are a data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In python, we use dictionary data type as a map. 
+
+Dictionary holds key:value pair. Each key-value pair in a Dictionary is separated by a colon :, whereas each key is separated by a ‘comma’.A Dictionary can be created by placing a sequence of elements within curly {} braces.Dictionary can also be created by the built-in function dict().
 
 
-NOTE: Keys cannot be repeated in dictionary.
+> NOTE: Keys cannot be repeated in dictionary.
 
 
 
 
 
-SET:
+### Set type:
 
 
 In Python, Set is an unordered collection of data type that is iterable, mutable and has no duplicate elements.Sets can be created by using the built-in set() function with an iterable object or a sequence by placing the sequence inside curly braces, separated by ‘comma’. Type of elements in a set need not be the same.
 
-BOOLEAN TYPE:
+### BOOLEAN TYPE:
 
 
 Boolean is Data type with one of the two built-in values, True or False.
@@ -99,7 +103,7 @@ Note – True and False with capital ‘T’ and ‘F’ are the only valid bool
 
 
 
-GET THE DATA TYPE OF THE VARIABLE:
+## GET THE DATA TYPE OF THE VARIABLE:
 We can use the type() function to understand the data type of the variable
 ~~~
 x="Digital Scholorship Hub"
