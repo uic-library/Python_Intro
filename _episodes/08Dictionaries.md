@@ -3,9 +3,10 @@ title: "Dictionaries"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What are Dictionaries"
+- " How to work with Dictionaries in python?"
 objectives:
-- "First learning objective. (FIXME)"
+- "To understand the concept of dictionaries"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
