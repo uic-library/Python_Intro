@@ -63,6 +63,8 @@ print(s.find("H"))
 
 
 The index function is used to find the index of the word in the string
+
+
 print(s.index("Hub"))
 
 
@@ -84,12 +86,9 @@ NOTE:
 
 s[a:b] # items start through end-1
 
-
 s[a:] # items start through the rest of the list
 
-
 s[:b] # items from the beginning through end-1
-
 
 s[:] # a copy of the whole list
 
@@ -112,12 +111,9 @@ s.replace("Science","Statistics") # replace Science with Statistics.
 
 print(s.upper()) # print the string in upper case
 
-
 print(s.lower()) # print the string in lower case
 
-
 print(s.title()) # print the string in title case
-
 
 print(s.swapcase()) # swaps the case of the string.
 
@@ -135,9 +131,7 @@ In python, we have strip,lstrip,rstring function to remove characters from the b
 
 strip(): removes the characters from both ends of the string.
 
-
 lstrip(): removes characters from the left end of the string(leading characters)
-
 
 rstrip(): removes characters fro the right end of the strings(trailing characters)
 
@@ -172,27 +166,19 @@ s = "Digital Scholorship Hub"
 
 s.isalnum() #checks if all the characters are alphanumeric 
 
-
 s.isalpha() #checks if all the characters are alphabetic
-
 
 s.isdigit() #checks if string contains digits
 
-
 s.istitle() #checks if string contains title words
-
 
 s.isupper() #checks if string contains upper case
 
-
 s.islower() #checks if string contains lower case
-
 
 s.isspace() #checks if string contains spaces
 
-
 s.endswith('d') #checks if string endswith a d
-
 
 s.startswith('H') #checks if string startswith H
 
