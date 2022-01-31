@@ -3,23 +3,23 @@ title: "Functions"
 teaching: 0
 exercises: 0
 questions:
-- "What are functions"
-- "Why do we need functions"
-- "How to use functions"
-- "What are Lambdas"
+- "What are functions?"
+- "Why do we need functions?"
+- "How to use functions?"
+- "What are Lambdas?"
 objectives:
-- "To understan how to use functions in python."
+- "To understand how to use functions in python."
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## WHAT ARE FUNCTIONS?
+## What are Functions?
 Functions are a set of instructions(code) bundled together to achieve a specific outcome.
 
-## WHY DO WE NEED FUCNTIONS?
+## Why do we need Functions?
 One of the main advantages of functions is that it encourages code reusability. Instead of writing the lines of code at multiple places, we can write it as a fucntion and call it when needed.
 
-## HOW TO USE FUNCTIONS IN PYTHON?
+## How to use functions in python?
 In Python a function is defined using the def keyword:
 
 ~~~
@@ -27,7 +27,7 @@ def my_function():
   print("Hello from a function")
 ~~~
 
-## HOW TO CALL FUCNTIONS?
+## How to call functions in python?
 To call a function, use the function name followed by parenthesis:
 
 ~~~
@@ -37,7 +37,7 @@ def my_function():
 my_function()
 ~~~
 
-## WHAT ARE ARGUMENTS?
+## What are arguments?
 We can pass data to our functions, so that it can use it for computations.This data being passed is called an argument. You specify the value of an argument when you call the function.
 
 ~~~
