@@ -3,9 +3,11 @@ title: "String Manipulation"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is String Manipulation?"
+- "Why is String Manipulation important?"
+- "How to Manipulate strings"
 objectives:
-- "First learning objective. (FIXME)"
+- "To use python functions to manipulate strings"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
