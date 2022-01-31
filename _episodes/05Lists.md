@@ -3,23 +3,24 @@ title: "Lists"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What are lists?"
+- "How to work with Lists in python?"
 objectives:
-- "First learning objective. (FIXME)"
+- "To understan how to work with lists"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-
+ ## What are Lists?
 Lists are just like the arrays, declared in other languages which is a ordered collection of data. It is very flexible as the items in a list do not need to be of the same type.
  
 
-Creating List:
+## Creating a List
 
 Lists in Python can be created by just placing the sequence inside the square brackets[].
 
 
 
-Accessing elements of List
+## Accessing elements of a List
 
 
 In order to access the list items, we use the index number. For example- we can access the third element by typing list[2]. In Python, negative sequence indexes represent positions from the end of the array. That is -1 refers to the last item, -2 refers to the second-last item, etc.
@@ -38,7 +39,7 @@ print(list1[4:])    #Prints all the elements after 4
 print(list1[-1])    #Prints the last element
 ~~~
 
-Removing elements from a List
+## Removing elements from a List
 
 We use the inbuilt methods del(), pop(),remove().
 
@@ -55,7 +56,7 @@ lis4.pop(1)          #Pops the element present on the first index
 print(lis4)
 ~~~
 
-Other Operations with list
+## Other Operations with list
 
 ~~~
 lis1=[100,99,98,97]
