@@ -6,7 +6,8 @@ questions:
 - "What is a data type?"
 - "What are the different tyes of data types?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn about data types in python"
+- "Learn about basic operations in python"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
