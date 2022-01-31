@@ -3,14 +3,15 @@ title: "Datatypes and operations"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is a data type?"
+- "What are the different tyes of data types?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## What is a data-type?
+## What is a data type?
 Data type is an attribute associated with a piece of data that tells a computer system how to interpret its value. Understanding data types ensures that data is collected in the preferred format and the value of each property is as expected.
 
 Python has the following data types built-in by default, in these categories:
@@ -50,7 +51,7 @@ COMPLEX: An complex number is represented by “ x + yi “. Python converts the
 
 
 
-### Sequence typeE:
+### Sequence type:
 In Python, sequence is an ordered collection of various object. These objects could be of similar or different data types. 
 
 
