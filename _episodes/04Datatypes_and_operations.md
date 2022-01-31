@@ -88,7 +88,7 @@ Dictionary holds key:value pair. Each key-value pair in a Dictionary is separate
 
 In Python, Set is an unordered collection of data type that is iterable, mutable and has no duplicate elements.Sets can be created by using the built-in set() function with an iterable object or a sequence by placing the sequence inside curly braces, separated by ‘comma’. Type of elements in a set need not be the same.
 
-### BOOLEAN TYPE:
+### Boolean Type:
 
 
 Boolean is Data type with one of the two built-in values, True or False.
@@ -105,13 +105,13 @@ Boolean is Data type with one of the two built-in values, True or False.
 
 
 
-## GET THE DATA TYPE OF THE VARIABLE:
+## Get the data type of a variable:
 We can use the type() function to understand the data type of the variable
 ~~~
 x="Digital Scholorship Hub"
 type(x)
 ~~~
-TYPE CASTING
+## Type Casting
 Type casting is a technique used to convert the data type of the value. In python you can use the following functions to convert the data types:
 ~~~
 a=str(13456)
