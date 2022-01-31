@@ -25,7 +25,7 @@ String manipulation is the process of handling and modifying strings for various
 
 Most of the data obtained from the user, is in the form of text. Applications use text boxed extensively to capture data accuratley. Therefore, dealing with strings is a top priority for programmers and data enthusiasts alike.
 
-## How to manipulte Strings?
+## How to manipulate Strings?
 
 Python offers an array of inbuilt functions aimed at helping with string manipulation. A few of them are discussed below.
 
@@ -81,25 +81,44 @@ print(s[3:6]) # returns characters from index 3 to index 5
 
 NOTE:
 
+
 s[a:b] # items start through end-1
+
+
 s[a:] # items start through the rest of the list
+
+
 s[:b] # items from the beginning through end-1
+
+
 s[:] # a copy of the whole list
+
+
 
 
 
 ### Replace
 
 We can replaces characters in a string using the replace function(.replace('','')).
+
+
 s2= "Math and Science"
+
+
 s.replace("Science","Statistics") # replace Science with Statistics.
 
 
 ### Upper case and Lower case
 
 print(s.upper()) # print the string in upper case
+
+
 print(s.lower()) # print the string in lower case
+
+
 print(s.title()) # print the string in title case
+
+
 print(s.swapcase()) # swaps the case of the string.
 
 
@@ -115,8 +134,14 @@ print(s.reverse())
 In python, we have strip,lstrip,rstring function to remove characters from the beginning or the end of the string. if characters are not specified, it removes the white spaces.
 
 strip(): removes the characters from both ends of the string.
+
+
 lstrip(): removes characters from the left end of the string(leading characters)
+
+
 rstrip(): removes characters fro the right end of the strings(trailing characters)
+
+
 
 s=" this is an example "
 print(s.strip())
@@ -146,12 +171,28 @@ We can test the string for numbers, alphabets etc using the following functions
 s = "Digital Scholorship Hub"
 
 s.isalnum() #checks if all the characters are alphanumeric 
+
+
 s.isalpha() #checks if all the characters are alphabetic
+
+
 s.isdigit() #checks if string contains digits
+
+
 s.istitle() #checks if string contains title words
+
+
 s.isupper() #checks if string contains upper case
+
+
 s.islower() #checks if string contains lower case
+
+
 s.isspace() #checks if string contains spaces
+
+
 s.endswith('d') #checks if string endswith a d
+
+
 s.startswith('H') #checks if string startswith H
 
