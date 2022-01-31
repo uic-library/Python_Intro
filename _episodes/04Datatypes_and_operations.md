@@ -118,3 +118,80 @@ a=str(13456)
 b=int("1234")
 c=float(55)
 ~~~
+
+
+## Operations in python
+
+Operators are used to perform modifications on variables. Wr have different types of operations in python 
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Identity operators
+- Membership operators
+- Bitwise operators
+
+### Arithmetic Operators
+
+These operators are used to perform basic mathematic operations on variables of numeric type.
+
+~~~
+x=3
+y=4
+
+print(x+y) # print the sum of x and y
+print(x-y) # subtraction
+print(x*y) # multiplication
+print(x/y) #simple division
+print(x**y) # print exponential product(x to the power of y)
+print(x//y) # floor division
+print(x%y) #modulus
+~~~
+
+### Assignment Operators
+Assignment operators are used to assign values to variables.
+~~~
+x = 6	
+print(x += 2)	#similar to x = x + 2	
+print(x -= 2)		#similar to x = x - 2	
+print(x *= 2)		#similar to x = x * 2	
+print(x /= 2)		#similar to x = x / 2	
+print(x %= 2)		#similar to x = x % 2	
+print(x //= 2)	#similar to x = x // 2	
+print(x **= 2)	  #similar to x = x ** 2	
+print(x &= 2)	  #similar to x = x & 2	
+print(x |= 2)	  #similar to x = x | 2	
+print(x ^= 2)	  #similar to x = x ^ 2	
+print(x >>= 2)	  #similar to x = x >> 2	
+print(x <<= 2)	  #similar to x = x << 2
+~~~
+
+### Comparision Operators
+Comparision operators are used to compare two values.
+
+~~~
+x=5
+y=5
+print(x == y)	# checks if x is equal to y
+print(x != y) # checks if x is not equal to y	
+print(x > y) # checks if x is greayer than y	
+print(x < y) # checks if x is less than y	
+print(x >= y) # checks if x is greater that or equal to y
+print(x <= y) # checks if x is less than or equal to y.
+~~~
+
+> Note: In all of the above cases, the result is of boolean type(True or False)
+
+
+### Logical Operators
+Logical operators are used to perform operations on conditional statements.
+
+~~~
+x=5
+y=10
+print(x==5 and y==10) # performs AND operation on the results of the comparision operators(True and True)
+print(x==5 or y!=10) # performs OR operation on the results of the comparision operators(True or False)
+print(not(x==5)) # reverses the result of the comparision operation.
+
+~~~
+
