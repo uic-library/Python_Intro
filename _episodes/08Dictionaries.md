@@ -13,10 +13,10 @@ keypoints:
 
 
 
-WHAT ARE DICTIONARIES?
+## What are Dictionaries?
 A dictionary is a datatype that stores data in key value pairs.The key and value have a colon between them(:) and the key:value pairs are seperated by "," It is ordered*, changeable and do not allow duplicates.
 
-CREATING A DICTIONARY:
+## Creating a Dictionary
 We create a dictionary using curly({}) brackets.
 ~~~
 demo1={'a':10,'b':20,'c':30,'d':40}
@@ -24,7 +24,7 @@ demo1={'a':10,'b':20,'c':30,'d':40}
 print(demo1)
 ~~~
 
-ACCESSING ELEMENTS IN DICTIONARY:
+## Accessing elements in a Dictionary
 We can access elements using the key:
 ~~~
 print(demo1['a'])
@@ -36,7 +36,7 @@ k= demo1.keys()
 print(k)
 ~~~
 
-INSERTING/CHANGING ITEMS IN DICTIONARY:
+## Inserting/changing items in a Dictionary:
 
 We can change items using the key. There is also an update() methos that takes a dictionary as an argument to change the values.
 ~~~
@@ -50,14 +50,14 @@ We can also add new elements to a dictionary in the same way:
 demo1['e']=50
 demo1.update({'f':60,'g':70})
 ~~~
-COPY DICTIONARIES:
+## Copying a Dictionary:
 We can use the copy() method and the dict() function. We cannot simply do dictionary1=dictionary2 as it will only create a reference instead of copying the dictionary.
 
 ~~~
 demo2=demo1.copy()
 demo3=dict(demo1)
 ~~~
-DELETION IN DICTIONAIES:
+## Deletion in Dictionaries:
 
 We use the pop() method and the del keyword to delete elements in dictionaries. We pass the key as an argument to indicate the value to be deleted
 
@@ -78,7 +78,7 @@ demo1.clear()
 ~~~
 
 
-NESTED DICTIONARIES:
+## The concept of nested Dictionaries:
 
 A dictionary can dictionaries within itself. This is called a nested dictionary:
 ~~~
