@@ -90,7 +90,7 @@ In Python, Set is an unordered collection of data type that is iterable, mutable
 
 
 Boolean is Data type with one of the two built-in values, True or False.
-Note – True and False with capital ‘T’ and ‘F’ are the only valid booleans.
+> Note – True and False with capital ‘T’ and ‘F’ are the only valid booleans.
 
 
 
