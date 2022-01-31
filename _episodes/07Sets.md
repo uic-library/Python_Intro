@@ -3,31 +3,32 @@ title: "Sets"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What are sets?"
+- "How to use sets in python"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand how sets work in python"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-
+## What are sets?
 A set is a collection which is unordered and unindexed.
 
-CREATING A SET:
+## Creating a set:
 Sets are created using curly brackets.
 
 ~~~
 set_example={"Digital","Scholorship","Hub",2}
 print(set_example)
 ~~~
-Remember:
-Set items are -
-unordered: We cannot be sure which order the element are stored and displayed in.
-unchangeable: We cannot update the elements of the set. However, we can insert and delete values.
-No duplicate values: Sets cannot have two items with the same value.
+> ## Remember-   
+> Set items are -
+> - unordered: We cannot be sure which order the element are stored and displayed in.
+> - unchangeable: We cannot update the elements of the set. However, we can insert and delete values.
+> - No duplicate values: Sets cannot have two items with the same value.
 
 
 
-Length of a Set:
+## Length of a Set:
 
 We use the len() funtion to get the length of the set
 ~~~
@@ -43,7 +44,7 @@ set_constructor=set(("Digital","Scholorship","Hub",2))
 print(set_constructor)
 ~~~
 
-INSERTING ELEMENTS INTO SET:
+## Inserting elements into a set:
 
 To insert a single element into an existing set, the add method is used.
 
@@ -60,7 +61,7 @@ set_example.update(list_a)
 print(set_example)
 ~~~
 
-DELETION ON SETS:
+## Deletion of sets:
 
 To delete an element in a set, we use the remove and discard methods.
 ~~~
