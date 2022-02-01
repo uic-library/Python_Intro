@@ -3,9 +3,10 @@ title: "Conditional Statements and Flow control"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What are conditional statements?"
+- "What are control flow statements?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand Conditional Statements and Control Flow statements"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
