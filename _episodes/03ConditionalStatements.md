@@ -7,8 +7,6 @@ questions:
 - "What are control flow statements?"
 objectives:
 - "Understand Conditional Statements and Control Flow statements"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 ## Conditional Statements
 Conditional statements provide us the ability to test a variable against a value and act in one way if the condition is met by the variable or another way if not.
