@@ -6,7 +6,7 @@ questions:
 - "What are Variables?"
 - "How to create a Variable?"
 objectives:
-- "To understand Variables and the rules of naming variables"
+- "To understand variables and the rules of naming variables"
 ---
 
 ## What are Variables?
@@ -28,12 +28,12 @@ print(name)
 In python variables need not be declared with a particular type. We can also change them as required
 
 ~~~
-x= "Python for Beginners" # x is now of type string
-name= 5 #name is now of type int
+x = "Python for Beginners"     # x is now of type string
+name = 5                       # name is now of type int
 print(x)
 print(name)
 ~~~
-
+{: .language-python}
 
 ## Policiy for naming Variables
 
