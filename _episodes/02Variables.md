@@ -23,6 +23,7 @@ name = "Python for Beginners"
 print(x)
 print(name)
 ~~~
+{: .language-python}
 
 In python variables need not be declared with a particular type. We can also change them as required
 
