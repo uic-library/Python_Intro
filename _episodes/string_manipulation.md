@@ -8,8 +8,6 @@ questions:
 - "How to Manipulate strings"
 objectives:
 - "To use python functions to manipulate strings"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 ## What is a String?
