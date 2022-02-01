@@ -3,11 +3,7 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning objective. (FIXME)"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "What, Why and Who"
 ---
 
 ## W's OF PYTHON
@@ -27,53 +23,3 @@ Python was created by Guido van Rossum, and first released on February 20, 1991.
 - open source, so anyone can contribute to its development;
 - code that is as understandable as plain English;
 - suitable for everyday tasks, allowing for short development times.
-
-* bullets
-- bullets
-  - sub-bullets
-
-*italics*
-_italics_
-**bold**
-__bold__
-
-# H1
-## H2 
-...etc
-
-[text for link](https://...)
-
-images
-![brief description image](../fig/file-name.png)
-~~~
-x = 1
-x
-~~~
-{: .language-python}
-
-~~~
-1
-~~~
-{: .output}
-
-> ## Challenge: Working with dictionaries  
-> 
-> Explanation of challenge here  
-> more explantion  
-> > ## Solution  
-> > 
-> > answer to challenge here  
-> > ~~~  
-> > code   
-> > ~~~  
-> > {: .output}    
-> {: .solution}  
-{: .challenge}  
-
-paragraph
-
-paragraph
-
-
-{% include links.md %}
-
