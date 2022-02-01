@@ -26,6 +26,7 @@ if 'no' in lis1:
   print('Nothing')
 print('Done')
 ~~~
+{: .language-python}
 
 ---
 
@@ -48,6 +49,7 @@ elif name=='Mike':
 else:
   print('No match found')
 ~~~
+{: .language-python}
 
 ---
 ## Control Flow
@@ -63,8 +65,10 @@ while i < 6:
   print(i)
   i += 1
 ~~~
-> ### We use the BREAK and CONTINUE statements to control the flow of the loop
-> #### Break is used to exit the loop
+{: .language-python}
+
+> ## We use the BREAK and CONTINUE statements to control the flow of the loop
+> ### Break is used to exit the loop
 > ~~~
 > i = 1
 > while i < 6:
@@ -73,7 +77,10 @@ while i < 6:
 >     break
 >     i += 1
 > ~~~
-> #### Continue is used to stop the current iteration, and continue with the next
+> {: .language-python}
+> 
+> ### Continue is used to stop the current iteration, and continue with the next
+> 
 > ~~~
 > i = 0
 > while i < 6:
@@ -82,6 +89,8 @@ while i < 6:
 >     continue
 >   print(i)
 >   ~~~
+>   {: .language-python}
+{: .callout}
 
 
 ---
@@ -95,5 +104,7 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
 ~~~
+{: .language-python}
+
 > The for loop also has break and continue operators like the while loop
 
