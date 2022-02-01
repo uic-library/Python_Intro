@@ -8,7 +8,9 @@ questions:
 objectives:
 - "To understan how to work with lists"
 ---
+
  ## What are Lists?
+ 
 Lists are just like the arrays, declared in other languages which is a ordered collection of data. It is very flexible as the items in a list do not need to be of the same type.
  
 
@@ -36,6 +38,7 @@ print(list1[4:])    #Prints all the elements after 4
 
 print(list1[-1])    #Prints the last element
 ~~~
+{: .language-python}
 
 ## Removing elements from a List
 
@@ -53,6 +56,7 @@ print(lis4)
 lis4.pop(1)          #Pops the element present on the first index
 print(lis4)
 ~~~
+{: .language-python}
 
 ## Other Operations with list
 
@@ -64,20 +68,29 @@ print(len(lis1))     # The len() function is used to get the length of the list
 lis3= lis1+lis2      #Adding/Concatenating two lists
 print(lis3)
 print(lis3[-3:])     #Prints last 3 elements
+~~~
+{: .language-python}
 
+~~~
 #Checking if an element is present in the list
 lis5=['Illinois','Indiana','Texas','Florida']
 
 'Illinois' in lis5   #The 'in' statement checks whether certain element is present in the list or not. If the element is present it returns True else False
 'Arizona' in lis5
 'Arizona' not in lis5 #Similar to 'in' statement
+~~~
+{: .language-python}
 
+~~~
 #Min Max Function
 lis6=[1,34,73,67,99,22,3,4]
 
 print(min(lis6))
 print(max(lis6))
+~~~
+{: .language-python}
 
+~~~
 #Adding value to the list
 lis6.append(56)     #Appends only one element at the end of the list
 print(lis6)
@@ -86,7 +99,10 @@ print(lis6)
 
 lis6.insert(0,90)   #Inserts element at the mentioned index
 print(lis6)
+~~~
+{: .language-python}
 
+~~~
 #Sorting elements in a list
 
 lis7=[-6,1,-1,-5,3,6,7,8,22,5,4]
@@ -102,7 +118,10 @@ lis8=[-3,11,2,3,8,4,1,5,-5,-8,-10,10]
 print(sorted(lis8)) #Prints the sorted list
 
 print(lis8)         #Prints the original list. Sorted function doesnot change the original list whereas sort function does
+~~~
+{: .language-python}
 
+~~~
 #Reassigning a list
 print(lis8)
 
@@ -111,3 +130,4 @@ lis8[0]=100         #Assigns index 0 as 100
 print(lis8)
 
 ~~~
+{: .language-python}
