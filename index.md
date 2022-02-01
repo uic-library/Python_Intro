@@ -28,10 +28,11 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 |Section 2|* goal(s) from section #2 (objectives from section 2 page) | | 
 |Section 3| .....| | 
 
-
+{% comment %}
 ## Workshop Recording
 
 {% include box_player.html id=page.boxId %}
+{% endcomment %}
 
 ## Survey
 
