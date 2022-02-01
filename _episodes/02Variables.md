@@ -7,8 +7,6 @@ questions:
 - "How to create a Variable?"
 objectives:
 - "To understand Variables and the rules of naming variables"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 ## What are Variables?
