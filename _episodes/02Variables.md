@@ -36,7 +36,7 @@ print(name)
 ~~~
 
 
-## POLICY FOR NAMING VARIABLES
+## Policiy for naming Variables
 
 Variables in python should follow the given rules
 - Variable names should start with letter or underscore(_).
