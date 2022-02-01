@@ -7,8 +7,6 @@ questions:
 - "How to work with tuples in python?"
 objectives:
 - "To understand the concept of Tuples in python"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 
