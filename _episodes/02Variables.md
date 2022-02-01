@@ -3,18 +3,19 @@ title: "Variables"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What are Variables?"
+- "How to create a Variable?"
 objectives:
-- "First learning objective. (FIXME)"
+- "To understand Variables and the rules of naming variables"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-WHAT ARE VARIABLES?
+## What are Variables?
 
 In python, we have constants and variables. A constant does not change its value over time. A variable is a container that is used to store values. The values of the variable can change in accordance to the manipulation being done on it.
 
-HOW TO CREATE A VARIABLE?
+## How to create a Variable?
 
 A variable is created the moment you assign a value to it.
 
@@ -35,7 +36,7 @@ print(name)
 ~~~
 
 
-POLICY FOR NAMING VARIABLES
+## POLICY FOR NAMING VARIABLES
 
 Variables in python should follow the given rules
 - Variable names should start with letter or underscore(_).
