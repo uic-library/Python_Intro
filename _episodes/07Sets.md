@@ -7,8 +7,6 @@ questions:
 - "How to use sets in python"
 objectives:
 - "Understand how sets work in python"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 ## What are sets?
 A set is a collection which is unordered and unindexed.
