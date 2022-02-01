@@ -9,8 +9,6 @@ questions:
 - "What are Lambdas?"
 objectives:
 - "To understand how to use functions in python."
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 ## What are Functions?
