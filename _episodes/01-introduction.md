@@ -10,11 +10,11 @@ questions:
 
 ### WHAT IS PYTHON?
 
-According the python.org, Python is an interpreted, object-oriented, high-level programming language that has a simple and easy to learn syntax. It has high level built in data structures with dynamic typing and dynamic binding, which make it attractive for Application developement. However, the most know use of python is for data science. This is because it provides functionalities to deal with statistical aspects of data science. It also provides libraries to deal with machine learning models. 
+According the python.org, Python is an interpreted, object-oriented, high-level programming language that has a simple and easy to learn syntax. It has high level built in data structures with dynamic typing and dynamic binding, which make it attractive for application developement. However, the most know use of python is for data science. This is because it provides functionalities to deal with statistical aspects of data science. It also provides libraries to deal with machine learning models. 
 
 ### WHY PYTHON?
 
-Python is easy to pick up.It has various inbuilt libraries that can be used to save time and effort. It is also very versatile, effecient and fast.
+Python is easy to pick up. It has various in-built libraries that can be used to save time and effort. It is also very versatile, effecient and fast.
 
 ### WHO DEVELOPED PYTHON?
 
