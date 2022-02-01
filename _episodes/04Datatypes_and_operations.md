@@ -195,3 +195,46 @@ print(not(x==5)) # reverses the result of the comparision operation.
 
 ~~~
 
+### Identity Operators
+
+Identity operators are used to check if the objects are same based on the memeory allocation-
+~~~
+x=[1,2,3]
+y=[1,2,3]
+z=y
+print(z is y) # returns True as z is the same object as y
+print(z is x) # returns False as z is not the same object as x
+print(z is not x) # returns True as z is not the same object as x
+~~~
+
+
+### Membership Operators
+
+Membership operators are used to check if a sequence is present in an object
+~~~
+x=["Digital","Scholoarship","Hub"]
+print("Hub" in x)# prints True, as "Hub" is in list x
+print(2 not in x)# prints True, as 2 is not in list x
+~~~
+
+
+### Bitwise Operators
+
+Bitwise operators are used to compare Binary numbers
+
+~~~
+a = 5
+b = 6
+ 
+print( a & b) # Print bitwise AND operation
+print( a | b) # Print bitwise OR operation
+print( ~a) # Print bitwise NOT operation
+print( a ^ b) # print bitwise XOR operation
+
+
+a = 1
+print( a >> 1) # print bitwise right shift operator
+print(a << 1) # print bitwise left shift operator
+
+
+~~~
