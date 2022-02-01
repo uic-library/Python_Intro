@@ -8,8 +8,6 @@ questions:
 objectives:
 - "Learn about data types in python"
 - "Learn about basic operations in python"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 ## What is a data type?
