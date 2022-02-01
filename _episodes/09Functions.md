@@ -24,6 +24,7 @@ In Python a function is defined using the def keyword:
 def my_function():
   print("Hello from a function")
 ~~~
+{: .language-python}
 
 ## How to call functions in python?
 To call a function, use the function name followed by parenthesis:
@@ -34,6 +35,7 @@ def my_function():
 
 my_function()
 ~~~
+{: .language-python}
 
 ## What are arguments?
 We can pass data to our functions, so that it can use it for computations.This data being passed is called an argument. You specify the value of an argument when you call the function.
@@ -46,6 +48,7 @@ my_function("Emil")
 my_function("Tobias")
 my_function("Linus")
 ~~~
+{: .language-python}
 
 ---
 ## LAMBDAS
@@ -55,3 +58,4 @@ A lambda function has no name when defining it, and it is contained in one line 
 x = lambda a : a + 10
 print(x(5))
 ~~~
+{: .language-python}
