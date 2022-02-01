@@ -7,8 +7,6 @@ questions:
 - " How to work with Dictionaries in python?"
 objectives:
 - "To understand the concept of dictionaries"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
 ---
 
 
