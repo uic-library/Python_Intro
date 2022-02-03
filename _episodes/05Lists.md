@@ -2,14 +2,15 @@
 title: "Lists"
 teaching: 0
 exercises: 0
-questions:
-- "What are lists?"
-- "How to work with Lists in python?"
+
 objectives:
-- "To understan how to work with lists"
+- "To understand how to work with lists"
+
+keypoints:
+- " "
 ---
 
- ## What are Lists?
+## What are Lists?
  
 Lists are just like the arrays, declared in other languages which is a ordered collection of data. It is very flexible as the items in a list do not need to be of the same type.
  
