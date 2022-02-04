@@ -7,7 +7,6 @@ questions:
 - "What are the different tyes of data types?"
 objectives:
 - "Learn about data types in python"
-- "Learn about basic operations in python"
 ---
 
 ## What is a data type?
