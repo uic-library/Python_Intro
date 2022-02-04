@@ -9,7 +9,7 @@ boxId: kweltidiq4bv1m9ow12prsuo9x2espsd
 -------------------------------------------
 This workshop focuses on the basic level aspects of python like- variables, loops, data structures and string manipulation. The workshop is designed to help non-programmers, or programmers switching to python.
 
-We will be using Jupyter notebook for this workshop. For instructions regarding the installation of Jupyter, please visit- 
+We will be using Jupyter notebook for this workshop. For instructions regarding the installation of Jupyter, please Navigate to the Setup page
 
 
 ## Workshop goals
@@ -50,6 +50,6 @@ Thank you for attending this workshop or reading through the workshop material! 
 
 ## Next Up...
 Check out these workshops after you've completed this one:
-1. [Workshop Title]()
+1. [Numpy and Pandas in python]()
 2. [Workshop Title]()
 
