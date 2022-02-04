@@ -1,12 +1,11 @@
 ---
-title: "Datatypes"
+title: "Operations"
 teaching: 0
 exercises: 0
 questions:
-- "What is a data type?"
-- "What are the different tyes of data types?"
+- "What Operators?"
+- "What are the different types of Operators in python?"
 objectives:
-- "Learn about data types in python"
 - "Learn about basic operations in python"
 ---
 
