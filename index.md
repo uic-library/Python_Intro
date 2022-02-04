@@ -24,11 +24,20 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
 |[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
-|[Introduction](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min | 
-|Section 2|* goal(s) from section #2 (objectives from section 2 page) | | 
-|Section 3| .....| | 
+|[Introduction](https://uic-library.github.io/Python_Intro/01-introduction/index.html)    | Introduction to Python(What, Where amd Who)|0:20 min | 
+|[Variables](https://uic-library.github.io/Python_Intro/02-Variables/index.html)    | To understand variables and the rules of naming variables|0:20 min | 
+|[Conditional Statements and Flow control](https://uic-library.github.io/Python_Intro/03-ConditionalStatements/index.html)    | Understand Conditional Statements and Control Flow statements|0:20 min | 
+|[Datatypes and Operations](https://uic-library.github.io/Python_Intro/04-Datatypes_and_operations/index.html)    | Learn about data types and basic operations in python|0:20 min | 
+|[Functions](https://uic-library.github.io/Python_Intro/05-Functions/index.html)    | To understand how to use functions in python. | 
+|[String Manipulation](https://uic-library.github.io/Python_Intro/06-string_manipulation/index.html)    | To use python functions to manipulate strings|0:20 min | 
+|[Tuples](https://uic-library.github.io/Python_Intro/07-Tuples/index.html)    | To understand the concept of Tuples in python|0:20 min | 
+|[Lists](https://uic-library.github.io/Python_Intro/08-Lists/index.html)    | To understand how to work with lists|0:20 min | 
+|[Dictionaries](https://uic-library.github.io/Python_Intro/09-Dictionaries/index.html)    | To understand the concept of dictionaries|0:20 min | 
+|[Sets](https://uic-library.github.io/Python_Intro/10-Sets/index.html)    | Understand how sets work in python|0:20 min | 
+
 
 {% comment %}
+
 ## Workshop Recording
 
 {% include box_player.html id=page.boxId %}
