@@ -42,18 +42,18 @@ print(x%y) #modulus
 Assignment operators are used to assign values to variables.
 ~~~
 x = 6	
-print(x += 2)	#similar to x = x + 2	
-print(x -= 2)		#similar to x = x - 2	
-print(x *= 2)		#similar to x = x * 2	
-print(x /= 2)		#similar to x = x / 2	
-print(x %= 2)		#similar to x = x % 2	
-print(x //= 2)	#similar to x = x // 2	
-print(x **= 2)	  #similar to x = x ** 2	
-print(x &= 2)	  #similar to x = x & 2	
-print(x |= 2)	  #similar to x = x | 2	
-print(x ^= 2)	  #similar to x = x ^ 2	
-print(x >>= 2)	  #similar to x = x >> 2	
-print(x <<= 2)	  #similar to x = x << 2
+x += 2	#similar to x = x + 2	
+x -= 2		#similar to x = x - 2	
+x *= 2		#similar to x = x * 2	
+x /= 2		#similar to x = x / 2	
+x %= 2		#similar to x = x % 2	
+x //= 2	#similar to x = x // 2	
+x **= 2	  #similar to x = x ** 2	
+x &= 2	  #similar to x = x & 2	
+x |= 2	  #similar to x = x | 2	
+x ^= 2	  #similar to x = x ^ 2	
+x >>= 2	  #similar to x = x >> 2	
+x <<= 2	  #similar to x = x << 2
 ~~~
 {: .language-python}
 
