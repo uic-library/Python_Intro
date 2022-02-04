@@ -118,9 +118,9 @@ print(s.swapcase()) # swaps the case of the string.
 
 ### Reversal of a string
 
-We can reverse a string using the reverse function(reverse()).
+We can reverse a string using the reverse function(reversed()).
 ~~~
-print(s.reverse())
+print(''.join(reversed(s)))
 ~~~
 
 ### Stripping
