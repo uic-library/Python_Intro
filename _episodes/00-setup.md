@@ -3,20 +3,24 @@ title: "Setup"
 teaching: 0
 exercises: 10
 questions:
-- "How do I setup the software for this workshop?"
-- "What are the workshop materials for this workshop?"
-- "What data are we using for this workshop?"
-- "What is the pre-requisite knowledge I need and where do I get it?"
-- "What other information do I need to know before I begin?"
+
 objectives:
-- "Install necessary software for this workshop"
-- "Download data and other setup files for this workshop"
-- "Get context of data used in this workshop"
-- "Confirm I have the previous knowledge necessary to participate in this workshop"
+- "Install Anaconda"
+- "Download the python jupyter notebook file"
+- "Open jupyter notebooks"
 ---
+
+To participate in this workshop, you will need to have the Anaconda distribution of Python installed on your computer, or you may use Anaconda on the UIC virtual labs to launch Jupyter notebooks. You will also need to download the code file used for this workshop. See instructions below for these steps. 
+
+
+## Code File
+Please download [this file with python code](../files/Intro_Python_Code.ipynb) that will be used for this workshop. 
+
 
 ## Software setup
 We will be using Jupyter notebook for this workshop. We install the Anaconda navigator. Anaconda is an open source distribution, which provides the easiest way to code in python, especially for data science.
+
+{% include install_instructions/virtual_lab.html %}
 
 ### INSTALLATION:
 __For Windows Users:__
