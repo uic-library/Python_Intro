@@ -15,7 +15,7 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 ## Workshop goals
 - Solve basic problems using python.
 
-## Pre-requisites
+## Recommended Reading
 > Problem Solving (["Think Python: How to Think Like a Computer Scientist- Allen B. Downey"](https://greenteapress.com/thinkpython/html/index.html))
 
 
