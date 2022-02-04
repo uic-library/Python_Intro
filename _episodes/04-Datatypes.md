@@ -44,7 +44,7 @@ There are 3 numeric types-
 **FLOAT:** This data type is used to represent real number with floating point representation. It is specified by a decimal point. 
 
 
-**COMPLEX:** An complex number is represented by “ x + yi “. Python converts the real numbers x and y into complex using the function complex(x,y). The real part can be accessed using the function real() and imaginary part can be represented by imag().
+**COMPLEX:** An complex number is represented by “ x + yi “. Python converts the real numbers x and y into complex using the function complex(x,y). The real part can be accessed using the .real and imaginary part can be represented by .imag .
 
 
 
