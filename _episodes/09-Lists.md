@@ -25,7 +25,8 @@ Lists in Python can be created by just placing the sequence inside the square br
 
 
 In order to access the list items, we use the index number. For example- we can access the third element by typing list[2]. In Python, negative sequence indexes represent positions from the end of the array. That is -1 refers to the last item, -2 refers to the second-last item, etc.
-
+> ### Note:
+> Indexing in python always starts from 0. In the below example, the index of 12 is 0.
 ~~~
 list1=[12, 15.5, 'abcd', 'xyz', 34, 256.8]
 
