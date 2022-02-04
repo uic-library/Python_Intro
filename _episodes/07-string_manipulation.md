@@ -151,9 +151,9 @@ print(s3+s4)
 
 ### Join
 
-The join function(join('word')), adds a word between each character
+The join function is used to convert a list into s string.
 ~~~
-print(s.join(" ")) # adds a space between each character.
+print(" ".join()) # adds a space between each character.
 ~~~
 
 ### Testing.
