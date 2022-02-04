@@ -36,11 +36,13 @@ We create a string by enclosing characters in either " " or  ' '.
 s= "Digital Scholorship Hub 2"
 print(s)
 ~~~
+{: .language-python}
 We can also type caste a variable into string using str().
 ~~~
 s1=str(12345)
 print(s1)
 ~~~
+{: .language-python}
 
 ### Accessing
 
@@ -49,6 +51,7 @@ Strings are accessed in the same way as lists, i.e using []
 a=s[2]
 print(a)
 ~~~
+{: .language-python}
 
 ### Length of a string
 
@@ -56,6 +59,7 @@ We use len() to find the length of the string.
 ~~~
 print(len(s))
 ~~~
+{: .language-python}
 
 ### Search and index:
 
@@ -63,12 +67,14 @@ The find function(find("String")) is used to find if the string contains the cha
 ~~~
 print(s.find("H"))
 ~~~
+{: .language-python}
 
 The index function is used to find the index of the word in the string
 
 ~~~
 print(s.index("Hub"))
 ~~~
+{: .language-python}
 
 ### Count
 
@@ -76,6 +82,7 @@ The count(count("")) function returned the number if instances of the word prese
 ~~~
 print(s.count(" ")) # returns the number of spaces present in the string.
 ~~~
+{: .language-python}
 
 ### Slicing
 
@@ -83,6 +90,7 @@ Slicing is used to access character of a string between two indexes. We use [a:b
 ~~~
 print(s[3:6]) # returns characters from index 3 to index 5
 ~~~
+{: .language-python}
 > NOTE:
 > 
 > s[a:b] # items start through end-1
@@ -104,6 +112,7 @@ s2= "Math and Science"
 s.replace("Science","Statistics") # replace Science with Statistics.
 print(s)
 ~~~
+{: .language-python}
 
 ### Upper case and Lower case
 ~~~
@@ -115,6 +124,7 @@ print(s.title()) # print the string in title case
 
 print(s.swapcase()) # swaps the case of the string.
 ~~~
+{: .language-python}
 
 ### Reversal of a string
 
@@ -122,6 +132,7 @@ We can reverse a string using the reverse function(reversed()).
 ~~~
 print(''.join(reversed(s)))
 ~~~
+{: .language-python}
 
 ### Stripping
 
@@ -138,6 +149,7 @@ rstrip(): removes characters fro the right end of the strings(trailing character
 s=" this is an example "
 print(s.strip())
 ~~~
+{: .language-python}
 
 ### Concatenation
 
@@ -148,6 +160,7 @@ S4="World"
 
 print(s3+s4)
 ~~~
+{: .language-python}
 
 ### Join
 
@@ -155,6 +168,7 @@ The join function is used to convert a list into s string.
 ~~~
 print(" ".join()) # adds a space between each character.
 ~~~
+{: .language-python}
 
 ### Testing.
 
@@ -180,3 +194,4 @@ s.endswith('d') #checks if string endswith a d
 
 s.startswith('H') #checks if string startswith H
 ~~~
+{: .language-python}
