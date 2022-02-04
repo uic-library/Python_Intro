@@ -25,7 +25,7 @@ print(name)
 ~~~
 {: .language-python}
 
-In python variables need not be declared with a particular type. We can also change them as required
+In python, we can also change the values assigned to the variables, without any restrictions.
 
 ~~~
 x = "Python for Beginners"     # x is now of type string
