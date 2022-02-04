@@ -5,9 +5,6 @@ exercises: 0
 
 objectives:
 - "To understand how to work with lists"
-
-keypoints:
-- " "
 ---
 
 ## What are Lists?
