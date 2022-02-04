@@ -1,5 +1,5 @@
 ---
-title: "Datatypes and operations"
+title: "Datatypes and Operations"
 teaching: 0
 exercises: 0
 questions:
