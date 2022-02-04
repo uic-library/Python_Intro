@@ -36,3 +36,7 @@ print(tup[0])
 
 print(tup[1:3])
 ~~~
+
+## Applications of Tuples
+- Tuples can be use to store the longitude and latitude of houses in a city.
+- Tuples are used for checking parentheses.
