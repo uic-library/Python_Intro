@@ -47,34 +47,36 @@ __For Mac Users:__
 4) Installation type, select "Install for me only"
 5) Click on continue.
 6) After a successful installation you will see the “Thanks for installing Anaconda” dialog box
+{% endcomment %}
 
-> NOTE:
+> ## NOTE:
 > While we are using jupyter notebook for the purpose of this workshop, we can use any text editor to write our program and run it using the terminal/command prompt.
 > To do so-
 > 1) Open the command prompt/terminal and type pip install python3
 > 2) Once the installation is complete, open any editor and type you code in it. Make sure you save the file with a .py extension.
 > 3) Go to the command prompt/terminal and navigate to the filder where the file is saved.
 > 4) type python3 "name of the file".py 
+{: .callout}
 
-{% endcomment %}
 
-### Launching Jupyter on Anaconda  
-We can use Anaconda Navigator to access Jupyter and other tools(pyCharm etc) provided in Anaconda.   
+### Launching Jupyter on Anaconda    
 
-__For Windows Users:__  
-1. Click Start  
-2. Search and select Anaconda Navigator from the menu.  
-3. Once the Navigator opens up. Select Jupyter Notebook from the tools available.
-4. Jupyter will open up on a new tab in the browser. 
-5. Navigate to the required destination.
-6. Click on new - > Notebook
-7. The script file opens up.
+We can use Anaconda Navigator to access Jupyter and other tools(pyCharm etc) provided in Anaconda.     
 
-__For Mac Users:__
-1. Click Launchpad and select Anaconda Navigator. Or, use Cmd+Space to open Spotlight Search and type “Navigator” to open the program.
-2. Once the Navigator opens up. Select Jupyter Notebook from the tools available.
-3. Jupyter will open up on a new tab in the browser. 
-4. Navigate to the required destination.
-5. Click on new - > Notebook
-6. The script file opens up.
+__For Windows Users:__    
+1. Click Start    
+2. Search and select Anaconda Navigator from the menu.    
+3. Once the Navigator opens up. Select Jupyter Notebook from the tools available.  
+4. Jupyter will open up on a new tab in the browser.   
+5. Navigate to the required destination.  
+6. Click on new - > Notebook  
+7. The script file opens up.  
 
+__For Mac Users:__  
+1. Click Launchpad and select Anaconda Navigator. Or, use Cmd+Space to open Spotlight Search and type “Navigator” to open the program.  
+2. Once the Navigator opens up. Select Jupyter Notebook from the tools available.  
+3. Jupyter will open up on a new tab in the browser.   
+4. Navigate to the required destination.  
+5. Click on new - > Notebook  
+6. The script file opens up.  
+ 
