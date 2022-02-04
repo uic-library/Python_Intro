@@ -84,9 +84,13 @@ Slicing is used to access character of a string between two indexes. We use [a:b
 print(s[3:6]) # returns characters from index 3 to index 5
 ~~~
 > NOTE:
+> 
 > s[a:b] # items start through end-1
+> 
 > s[a:] # items start through the rest of the list
+> 
 > s[:b] # items from the beginning through end-1
+> 
 > s[:] # a copy of the whole list
 
 ### Replace
