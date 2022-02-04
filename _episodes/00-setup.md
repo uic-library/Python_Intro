@@ -23,6 +23,7 @@ We will be using Jupyter notebook for this workshop. We install the Anaconda nav
 {% include install_instructions/python.html %}
 {% include install_instructions/virtual_lab.html %}
 
+{% comment %}
 ### INSTALLATION:
 __For Windows Users:__
 
@@ -55,23 +56,25 @@ __For Mac Users:__
 > 3) Go to the command prompt/terminal and navigate to the filder where the file is saved.
 > 4) type python3 "name of the file".py 
 
-### Launching Jupyter on Anaconda
-We can use Anaconda Navigator to access Jupyter and other tools(pyCharm etc) provided in Anaconda.
+{% endcomment %}
 
-__For Windows Users:__
-1) Click Start
-2) Search and select Anaconda Navigator from the menu.
-3) Once the Navigator opens up. Select Jupyter Notebook from the tools available.
-4) Jupyter will open up on a new tab in the browser. 
-5) Navigate to the required destination.
-6) Click on new - > Notebook
-7) The script file opens up.
+### Launching Jupyter on Anaconda  
+We can use Anaconda Navigator to access Jupyter and other tools(pyCharm etc) provided in Anaconda.   
+
+__For Windows Users:__  
+1. Click Start  
+2. Search and select Anaconda Navigator from the menu.  
+3. Once the Navigator opens up. Select Jupyter Notebook from the tools available.
+4. Jupyter will open up on a new tab in the browser. 
+5. Navigate to the required destination.
+6. Click on new - > Notebook
+7. The script file opens up.
 
 __For Mac Users:__
-1) Click Launchpad and select Anaconda Navigator. Or, use Cmd+Space to open Spotlight Search and type “Navigator” to open the program.
-2) Once the Navigator opens up. Select Jupyter Notebook from the tools available.
-4) Jupyter will open up on a new tab in the browser. 
-5) Navigate to the required destination.
-6) Click on new - > Notebook
-7) The script file opens up.
+1. Click Launchpad and select Anaconda Navigator. Or, use Cmd+Space to open Spotlight Search and type “Navigator” to open the program.
+2. Once the Navigator opens up. Select Jupyter Notebook from the tools available.
+3. Jupyter will open up on a new tab in the browser. 
+4. Navigate to the required destination.
+5. Click on new - > Notebook
+6. The script file opens up.
 
