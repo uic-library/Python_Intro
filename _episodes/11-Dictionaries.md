@@ -121,3 +121,5 @@ demo5 = {
 ~~~
 {: .language-python}
 
+## Applications of Dictionaries
+- Used in Dataframes(Handling data from datasets)
