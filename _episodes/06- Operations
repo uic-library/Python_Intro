@@ -1,3 +1,15 @@
+---
+title: "Datatypes"
+teaching: 0
+exercises: 0
+questions:
+- "What is a data type?"
+- "What are the different tyes of data types?"
+objectives:
+- "Learn about data types in python"
+- "Learn about basic operations in python"
+---
+
 ## Operations in python
 
 Operators are used to perform modifications on variables. We have different types of operations in python 
