@@ -88,3 +88,6 @@ del set_example
 ~~~
 {: .language-python}
 
+## Applications of sets
+- to enforce uniqueness(like employee ID, Passport number)
+- Join Operations
