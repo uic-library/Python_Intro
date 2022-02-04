@@ -130,3 +130,7 @@ print(lis8)
 
 ~~~
 {: .language-python}
+
+## Applications of List
+- Lists support sequential access so they can be used to store recipes and instructions that need to be followed in order.
+- They are also used in Databases
