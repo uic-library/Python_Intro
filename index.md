@@ -23,7 +23,7 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
-|[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
+|[Setup](https://uic-library.github.io/Python_Intro/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
 |[Introduction](https://uic-library.github.io/Python_Intro/01-introduction/index.html)    | Introduction to Python(What, Where amd Who)|0:20 min | 
 |[Variables](https://uic-library.github.io/Python_Intro/02-Variables/index.html)    | To understand variables and the rules of naming variables|0:20 min | 
 |[Conditional Statements and Flow control](https://uic-library.github.io/Python_Intro/03-ConditionalStatements/index.html)    | Understand Conditional Statements and Control Flow statements|0:20 min | 
