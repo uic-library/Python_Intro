@@ -21,7 +21,7 @@ Please download [this file with python code](../files/Intro_Python_Code.ipynb) t
 We will be using Jupyter notebook for this workshop. We install the Anaconda navigator. Anaconda is an open source distribution, which provides the easiest way to code in python, especially for data science.
 
 {% include install_instructions/python.html %}
-{% include install_instructions/virtual_lab.html %}
+
 
 
 ### Launching Jupyter on Anaconda    
