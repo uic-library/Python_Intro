@@ -24,6 +24,7 @@ Lists in Python can be created by just placing the sequence inside the square br
 In order to access the list items, we use the index number. For example- we can access the third element by typing list[2]. In Python, negative sequence indexes represent positions from the end of the array. That is -1 refers to the last item, -2 refers to the second-last item, etc.
 > ### Note:
 > Indexing in python always starts from 0. In the below example, the index of 12 is 0.
+
 ~~~
 list1=[12, 15.5, 'abcd', 'xyz', 34, 256.8]
 
@@ -37,7 +38,6 @@ print(list1[4:])    #Prints all the elements after 4
 
 print(list1[-1])    #Prints the last element
 ~~~
-{: .language-python}
 
 ## Removing elements from a List
 
@@ -55,7 +55,7 @@ print(lis4)
 lis4.pop(1)          #Pops the element present on the first index
 print(lis4)
 ~~~
-{: .language-python}
+
 
 ## Other Operations with list
 
@@ -68,7 +68,7 @@ lis3= lis1+lis2      #Adding/Concatenating two lists
 print(lis3)
 print(lis3[-3:])     #Prints last 3 elements
 ~~~
-{: .language-python}
+
 
 ~~~
 #Checking if an element is present in the list
@@ -78,7 +78,7 @@ lis5=['Illinois','Indiana','Texas','Florida']
 'Arizona' in lis5
 'Arizona' not in lis5 #Similar to 'in' statement
 ~~~
-{: .language-python}
+
 
 ~~~
 #Min Max Function
@@ -87,7 +87,7 @@ lis6=[1,34,73,67,99,22,3,4]
 print(min(lis6))
 print(max(lis6))
 ~~~
-{: .language-python}
+
 
 ~~~
 #Adding value to the list
@@ -99,7 +99,7 @@ print(lis6)
 lis6.insert(0,90)   #Inserts element at the mentioned index
 print(lis6)
 ~~~
-{: .language-python}
+
 
 ~~~
 #Sorting elements in a list
@@ -118,7 +118,7 @@ print(sorted(lis8)) #Prints the sorted list
 
 print(lis8)         #Prints the original list. Sorted function doesnot change the original list whereas sort function does
 ~~~
-{: .language-python}
+
 
 ~~~
 #Reassigning a list
@@ -129,7 +129,7 @@ lis8[0]=100         #Assigns index 0 as 100
 print(lis8)
 
 ~~~
-{: .language-python}
+
 
 ## Applications of List
 - Lists support sequential access so they can be used to store recipes and instructions that need to be followed in order.
