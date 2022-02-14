@@ -11,7 +11,7 @@ objectives:
 ## Conditional Statements
 Conditional statements provide us the ability to test a variable against a value and act in one way if the condition is met by the variable or another way if not.
 
-### IF STATEMENT
+### If Statement
 
 The IF statement is a decision-making statement that guides a program to make decisions based on specified criteria. The IF statement executes one set of code if a specified condition is met (TRUE) or another set of code evaluates to FALSE.
 
@@ -30,7 +30,7 @@ print('Done')
 
 ---
 
-### ELIF STATEMENT
+### Elif Statement
 
 The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE
 
@@ -55,7 +55,7 @@ else:
 ## Control Flow
 Control Flow is the order in which instructions and function calls are implemented. Thw while and for loop provide us a way to manipulate control Flow
 
-### WHILE LOOP
+### While Loop
 
 The while loop is used to execute a set of statements as long as a condition is true.
 
@@ -95,7 +95,7 @@ while i < 6:
 
 ---
 
-### FOR LOOP
+### For Loop
 
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
@@ -105,6 +105,7 @@ for x in fruits:
   print(x)
 ~~~
 {: .language-python}
-
 > The for loop also has break and continue operators like the while loop
+
+## Syntax in Python
 
