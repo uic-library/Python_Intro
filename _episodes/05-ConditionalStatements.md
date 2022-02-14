@@ -109,3 +109,60 @@ for x in fruits:
 
 ## Syntax in Python
 
+### The print statement
+The print statement is used to display messages on the screen. The print statement displays everything in string format. 
+~~~
+print("Introduction to Python")
+s="Part"
+n=1
+print(s)
+print(n)
+print(2)
+~~~
+{: .language-python}
+
+### Indentation
+Unlike other programming languages that use brackets to indicate blocks of code, in python we use indentation.
+~~~
+for i in range(0,5):
+  print(i**2)
+  print(i)
+  print('In for loop')
+  print("block")
+~~~
+{: .language-python}
+
+Python will raise an error if you skip indentation. The number of spaces for each block is up to the programmer. However, it should be atleast one space and the number of spaces should be consistent through out that bloack of code.
+
+### Comments in Python
+
+In any programming language, we use comments to improve code readability and to help with documentation. Comments help us understand what a particular line of code does.
+
+#### Single line comments
+~~~
+i=0
+print(i) # Display the value of i
+~~~
+
+#### Multiline comments
+To comments multiple lines, we can insert a # at the beginning of every line
+~~~
+# this is
+# to demonstrate
+# multiline comments in python
+i=0
+print(i)
+~~~
+
+Or, we can use a multiline string. We is triple quotes(''' ....... ''') for multiline string comments
+~~~
+'''
+the following loop prints 
+the value of the variable i, 
+as long as it is less that 5
+'''
+i=0
+while i<6:
+ print(i)
+ i=i+1
+~~~
