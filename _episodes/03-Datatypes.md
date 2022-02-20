@@ -95,7 +95,7 @@ Boolean (bool) is a data type with one of the two built-in values, True or False
 We can use the type() function to understand the data type of the variable
 
 ~~~
-x="Digital Scholorship Hub"
+x="recipe for pancakes"
 type(x)
 ~~~
 {: .language-python}
