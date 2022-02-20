@@ -18,9 +18,10 @@ In python, we have constants and variables. A constant does not change its value
 A variable is created the moment you assign a value to it.
 
 ~~~
-x = 5
-name = "Python for Beginners"
-print(x)
+
+name = "Recipe for pancakes"
+no_of_ingredients = 5
+print(no_of_ingredients)
 print(name)
 ~~~
 {: .language-python}
@@ -28,7 +29,7 @@ print(name)
 In python, we can also change the values assigned to the variables, without any restrictions.
 
 ~~~
-x = "Python for Beginners"     # x is now of type string
+no_of_ingredients = "Recipe for pancakes"    # x is now of type string
 name = 5                       # name is now of type int
 print(x)
 print(name)
