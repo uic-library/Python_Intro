@@ -133,6 +133,13 @@ for i in range(0,5):
 {: .language-python}
 
 Python will raise an error if you skip indentation. The number of spaces for each block is up to the programmer. However, it should be atleast one space and the number of spaces should be consistent through out that bloack of code.
+### Reading input from user:
+Python allows us to collect input from user using the input() fuction.
+~~~
+name=input('Enter your name:')
+print("Hello" + name)
+~~~
+{: .language-python}
 
 ### Comments in Python
 
