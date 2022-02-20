@@ -105,7 +105,7 @@ print(z is not x) # returns True as z is not the same object as x
 Membership operators are used to check if a sequence is present in an object
 
 ~~~
-x=["Digital","Scholoarship","Hub"]
+x=["Digital","Scholorship","Hub"]
 print("Hub" in x)# prints True, as "Hub" is in list x
 print(2 not in x)# prints True, as 2 is not in list x
 ~~~
