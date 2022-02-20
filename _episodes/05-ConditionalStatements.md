@@ -16,14 +16,14 @@ Conditional statements provide us the ability to test a variable against a value
 The IF statement is a decision-making statement that guides a program to make decisions based on specified criteria. The IF statement executes one set of code if a specified condition is met (TRUE) or another set of code evaluates to FALSE.
 
 ~~~
-lis1= ['good','better','best','bad','worse']
+ingredients= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
 
-if 'good' in lis1:
-  print('Everything is good')
+if 'baking powder' in ingredients:
+  print('We have everything needed to make pancakes!')
 
 
-if 'no' in lis1:
-  print('Nothing')
+if 'syrup' in lis1:
+  print('Syrup is optional')
 print('Done')
 ~~~
 {: .language-python}
@@ -35,19 +35,15 @@ print('Done')
 The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE
 
 ~~~
-name = 'xyz'
+ingredients= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
 
 
-if name=='Jo':
-  print('Hi Jo')
-elif name=='Mark':
-  print('Hi Mark')
-elif name=='Frank':
-  print('Hi Frank')
-elif name=='Mike':
-  print('Hi Mike')
+if 'milk' not in ingredients:
+  print('No milk')
+elif 'non-dairy milk' in ingredients:
+  print('Non-Dairy milk is available. We can make vegan pancakes if we have Apple Cider vinegar and vanilla instead of eggs and butter')
 else:
-  print('No match found')
+  print("Incomplete ingredients")
 ~~~
 {: .language-python}
 
@@ -60,34 +56,37 @@ Control Flow is the order in which instructions and function calls are implement
 The while loop is used to execute a set of statements as long as a condition is true.
 
 ~~~
-i = 1
-while i < 6:
-  print(i)
-  i += 1
+butter_in_pantry = 12
+servings=0
+while butter_in_pantry > 0:
+  servings=servings+8
+  butter_in_pantry=butter_in_pantry-3
+print("Servings:" + str(servings))
 ~~~
 {: .language-python}
 
 > ## We use the BREAK and CONTINUE statements to control the flow of the loop
 > ### Break is used to exit the loop
 > ~~~
-> i = 1
-> while i < 6:
->   print(i)
->   if i == 3:
+> butter_in_pantry = 150
+> servings=0
+> while butter_in_pantry > 0:
+>   servings=servings+8
+>   if servings >= 24:
 >     break
->   i += 1
+>   butter_in_pantry=butter_in_pantry-3
 > ~~~
 > {: .language-python}
 > 
 > ### Continue is used to stop the current iteration, and continue with the next
 > 
 > ~~~
-> i = 0
-> while i < 6:
->   i += 1
->   if i == 3:
+> label_index = 0
+> while label_index <= 10:
+>   label_index += 1
+>   if label_index == 3:
 >     continue
->   print(i)
+>   print("Label "+str(label_index))
 >   ~~~
 >   {: .language-python}
 {: .callout}
@@ -100,9 +99,10 @@ while i < 6:
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
 ~~~
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
+ingredients= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
+for x in ingredients:
   print(x)
+  print(" ")
 ~~~
 {: .language-python}
 > The for loop also has break and continue operators like the while loop
