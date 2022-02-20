@@ -18,7 +18,6 @@ Operators are used to perform modifications on variables. We have different type
 - Logical operators
 - Identity operators
 - Membership operators
-- Bitwise operators
 
 ### Arithmetic Operators
 
@@ -109,25 +108,5 @@ Membership operators are used to check if a sequence is present in an object
 x=["Digital","Scholoarship","Hub"]
 print("Hub" in x)# prints True, as "Hub" is in list x
 print(2 not in x)# prints True, as 2 is not in list x
-~~~
-{: .language-python}
-
-### Bitwise Operators
-
-Bitwise operators are used to compare Binary numbers
-
-~~~
-a = 5
-b = 6
- 
-print( a & b) # Print bitwise AND operation
-print( a | b) # Print bitwise OR operation
-print( ~a) # Print bitwise NOT operation
-print( a ^ b) # print bitwise XOR operation
-
-
-a = 1
-print( a >> 1) # print bitwise right shift operator
-print(a << 1) # print bitwise left shift operator
 ~~~
 {: .language-python}
