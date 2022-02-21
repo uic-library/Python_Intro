@@ -64,7 +64,7 @@ x=5
 y=5
 print(x == y)	# checks if x is equal to y
 print(x != y) # checks if x is not equal to y	
-print(x > y) # checks if x is greayer than y	
+print(x > y) # checks if x is greater than y	
 print(x < y) # checks if x is less than y	
 print(x >= y) # checks if x is greater that or equal to y
 print(x <= y) # checks if x is less than or equal to y.
