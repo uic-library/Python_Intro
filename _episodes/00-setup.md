@@ -24,6 +24,8 @@ We will be using Jupyter notebook for this workshop. We install the Anaconda nav
 {% include install_instructions/virtual_lab.html %}
 
 
+
+
 ### Launching Jupyter on Anaconda    
 
 We can use Anaconda Navigator to access Jupyter and other tools(pyCharm etc) provided in Anaconda.     
