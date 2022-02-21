@@ -50,7 +50,7 @@ __For Mac Users:__
 {% endcomment %}
  
  
- ### Launching Jupyter on Anaconda    
+### Launching Jupyter on Anaconda    
 
 We can use Anaconda Navigator to access Jupyter and other tools(pyCharm etc) provided in Anaconda.     
 
