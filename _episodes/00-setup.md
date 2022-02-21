@@ -13,8 +13,13 @@ objectives:
 To participate in this workshop, you will need to have the Anaconda distribution of Python installed on your computer, or you may use Anaconda on the UIC virtual labs to launch Jupyter notebooks. You will also need to download the code file used for this workshop. See instructions below for these steps. 
 
 
-## Code File
-Please download [this file with python code](../files/Intro_Python_Code.ipynb) that will be used for this workshop. 
+## Code Files
+### Workshop Code:
+Please download the following code to follow along with the workshop:  
+[Python Code Part 1](../files/Intro_Python_Code_Part1.ipynb) - used for part 1 (day 1).
+
+### Practice Code:
+[Part 1 practice exercise](../files/worksheet_1.ipynb) - implement concepts learned in part 1 (day 1).
 
 
 ## Software setup
