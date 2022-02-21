@@ -69,7 +69,7 @@ __For Mac Users:__
 3. Jupyter will open up on a new tab in the browser.   
 4. Navigate to the required destination.  
 5. Click on new - > Notebook  
-6. The script file opens up.  \
+6. The script file opens up.
 
 > ## NOTE:  
 > While we are using jupyter notebook for the purpose of this workshop, we can use any text editor to write our program and run it using the terminal/command prompt.
