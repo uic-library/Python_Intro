@@ -16,13 +16,13 @@ Conditional statements provide us the ability to test a variable against a value
 The IF statement is a decision-making statement that guides a program to make decisions based on specified criteria. The IF statement executes one set of code if a specified condition is met (TRUE) or another set of code evaluates to FALSE.
 
 ~~~
-ingredients= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
+pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
 
-if 'baking powder' in ingredients:
+if 'baking powder' in pantry:
   print('We have everything needed to make pancakes!')
 
 
-if 'syrup' in lis1:
+if 'syrup' in pantry:
   print('Syrup is optional')
 print('Done')
 ~~~
@@ -35,12 +35,12 @@ print('Done')
 The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE
 
 ~~~
-ingredients= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
+pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
 
 
-if 'milk' not in ingredients:
+if 'milk' not in pantry:
   print('No milk')
-elif 'non-dairy milk' in ingredients:
+elif 'non-dairy milk' in pantry:
   print('Non-Dairy milk is available. We can make vegan pancakes if we have Apple Cider vinegar and vanilla instead of eggs and butter')
 else:
   print("Incomplete ingredients")
@@ -99,7 +99,7 @@ print("Servings:" + str(servings))
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
 ~~~
-ingredients= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
+pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter','cheese','yeast','vanilla extract','oregano','maple syrup','strawberry jam']
 for x in ingredients:
   print(x)
   print(" ")
