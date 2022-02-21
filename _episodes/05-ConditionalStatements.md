@@ -39,8 +39,8 @@ The elif statement allows you to check multiple expressions for TRUE and execute
 pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
 
 
-if 'milk' not in pantry:
-  print('No milk')
+if 'milk' in pantry:
+  print('We have milk')
 elif 'non-dairy milk' in pantry:
   print('Non-Dairy milk is available. We can make vegan pancakes if we have Apple Cider vinegar and vanilla instead of eggs and butter')
 else:
