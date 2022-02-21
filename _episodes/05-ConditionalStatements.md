@@ -20,7 +20,8 @@ pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter']
 
 if 'baking powder' in pantry:
   print('We have everything needed to make pancakes!')
-
+else:
+  print("You can eat toast!")
 
 if 'syrup' in pantry:
   print('Syrup is optional')
