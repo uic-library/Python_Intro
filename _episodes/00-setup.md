@@ -19,7 +19,7 @@ Please download the following code to follow along with the workshop:
 [Python Code Part 1](../files/Intro_Python_Code_Part1.ipynb) - used for part 1 (day 1).
 
 ### Practice Code:
-[Part 1 practice exercise](../files/worksheet_1.ipynb) - implement concepts learned in part 1 (day 1).
+[Part 1 practice exercise](../files/worksheet_1.ipynb) - implement concepts learned in part 1 (day 1).  
 [Part 1 exercise solution](../files/worksheet_1_solution.ipynb) - solution for practice exercise
 
 
