@@ -30,11 +30,11 @@ In order to access the tuple items refer to the index number.The index must be a
 
 address=(750, 'South Halsted Street', 'Chicago', 60607)
 
-print(tup)
+print(address)
 
-print(tup[0])
+print(address[0])
 
-print(tup[1:3])
+print(address[1:3])
 ~~~
 
 ## Applications of Tuples
