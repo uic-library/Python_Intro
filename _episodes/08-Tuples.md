@@ -28,7 +28,7 @@ In order to access the tuple items refer to the index number.The index must be a
 #Unlike list tuples are enclosed in ()
 #Cannot use store/stored functions for tuples because they are immutable
 
-tup=('asdfgh', 16, 78.9, 'mnbvcxz')
+address=(750, 'South Halsted Street', 'Chicago', 60607)
 
 print(tup)
 
