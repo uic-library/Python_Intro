@@ -51,11 +51,11 @@ pantry_1= ['flour',' baking powder','salt','white sugar','milk','egg','butter','
 del(pantry_1[4])         #Delets the 5th element in the list 
 print(pantry_1)  
 
-lis4.remove('milk')      #Removes the element 22. Remove command removes the first matching element
-print(lis4)
+pantry_1.remove('milk')      #Removes the element 22. Remove command removes the first matching element
+print(pantry_1)
 
-lis4.pop(1)          #Pops the element present on the first index
-print(lis4)
+pantry_1.pop(1)          #Pops the element present on the first index
+print(pantry_1)
 ~~~
 
 
