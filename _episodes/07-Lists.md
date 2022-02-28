@@ -26,17 +26,18 @@ In order to access the list items, we use the index number. For example- we can 
 > Indexing in python always starts from 0. In the below example, the index of 12 is 0.
 
 ~~~
-list1=[12, 15.5, 'abcd', 'xyz', 34, 256.8]
+pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter','cheese','yeast','vanilla extract','oregano','maple syrup','strawberry jam']
 
-print(list1)        #Prints list
 
-print(list1[0])     #Prints 1st element in the list
+print(pantry)        #Prints list
 
-print(list1[1:5])   #Prints 2nd to 5th elements in the list
+print(pantry[0])     #Prints 1st element in the list
 
-print(list1[4:])    #Prints all the elements after 4
+print(pantry[1:5])   #Prints 2nd to 5th elements in the list
 
-print(list1[-1])    #Prints the last element
+print(pantry[4:])    #Prints all the elements after 4
+
+print(pantry[-1])    #Prints the last element
 ~~~
 
 ## Removing elements from a List
@@ -44,12 +45,13 @@ print(list1[-1])    #Prints the last element
 We use the inbuilt methods del(), pop(),remove().
 
 ~~~
-lis4=['Lovely day', 45.6, 22, 'Good Night', 'Afternoon', 56, 29, 30, 22]
+pantry_1= ['flour',' baking powder','salt','white sugar','milk','egg','butter','cheese','yeast','vanilla extract','oregano','maple syrup','strawberry jam']
 
-del(lis4[4])         #Delets the 5th element in the list 
-print(lis4)  
 
-lis4.remove(22)      #Removes the element 22. Remove command removes the first matching element
+del(pantry_1[4])         #Delets the 5th element in the list 
+print(pantry_1)  
+
+lis4.remove('milk')      #Removes the element 22. Remove command removes the first matching element
 print(lis4)
 
 lis4.pop(1)          #Pops the element present on the first index
@@ -60,23 +62,22 @@ print(lis4)
 ## Other Operations with list
 
 ~~~
-lis1=[100,99,98,97]
-lis2=['abc','xyz',88,28,34,'ijk']
+pantry= ['flour',' baking powder','salt','white sugar','milk','egg','butter','cheese','yeast','vanilla extract','oregano','maple syrup','strawberry jam']
+new_items=['pepper','yeast','cinnamon','chilli flakes','oregano']
 
-print(len(lis1))     # The len() function is used to get the length of the list
-lis3= lis1+lis2      #Adding/Concatenating two lists
-print(lis3)
-print(lis3[-3:])     #Prints last 3 elements
+print(len(pantry))     # The len() function is used to get the length of the list
+updated_pantry= pantry + new_items     #Adding/Concatenating two lists
+print(updated_pantry)
+print(updated_pantry[-3:])     #Prints last 3 elements
 ~~~
 
 
 ~~~
 #Checking if an element is present in the list
-lis5=['Illinois','Indiana','Texas','Florida']
 
-'Illinois' in lis5   #The 'in' statement checks whether certain element is present in the list or not. If the element is present it returns True else False
-'Arizona' in lis5
-'Arizona' not in lis5 #Similar to 'in' statement
+'pepper' in updated_pantry   #The 'in' statement checks whether certain element is present in the list or not. If the element is present it returns True else False
+'yeast' in updated_pantry
+'salt' not in updated_pantry #Similar to 'in' statement
 ~~~
 
 
@@ -95,7 +96,8 @@ lis6.append(56)     #Appends only one element at the end of the list
 print(lis6)
 lis6.extend([11,2,33]) #Appends multiple elements at the end of the list
 print(lis6)
-
+updated_pantry.append('olive oil')
+updated_pantry.extend(['Mayonnaise','Cream Cheese','Honey'])
 lis6.insert(0,90)   #Inserts element at the mentioned index
 print(lis6)
 ~~~
