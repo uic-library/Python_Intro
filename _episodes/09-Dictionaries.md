@@ -27,7 +27,7 @@ print(pantry)
 ## Accessing elements in a Dictionary
 We can access elements using the key:
 ~~~
-print(demo1['eggs'])
+print(pantry['eggs'])
 ~~~
 {: .language-python}
 
