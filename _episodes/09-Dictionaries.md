@@ -18,22 +18,22 @@ A dictionary is a datatype that stores data in key value pairs. The key and valu
 ## Creating a Dictionary
 We create a dictionary using curly({}) brackets.
 ~~~
-demo1={'a':10,'b':20,'c':30,'d':40}
+pantry={'eggs':10,'butter(tbsp)':20,'sugar(oz)':30,'salt(oz)':40}
 
-print(demo1)
+print(pantry)
 ~~~
 {: .language-python}
 
 ## Accessing elements in a Dictionary
 We can access elements using the key:
 ~~~
-print(demo1['a'])
+print(demo1['eggs'])
 ~~~
 {: .language-python}
 
 keys(): The keys method returns a list of all the keys in a dictionary
 ~~~
-k= demo1.keys()
+k= pantry.keys()
 print(k)
 ~~~
 {: .language-python}
@@ -42,16 +42,16 @@ print(k)
 
 We can change items using the key. There is also an update() methos that takes a dictionary as an argument to change the values.
 ~~~
-demo1['a']=50
-demo1.update({'a':10})
+pantry['eggs']=50
+pantry.update({'eggs':10})
 ~~~
 {: .language-python}
 
 We can also add new elements to a dictionary in the same way:
 
 ~~~
-demo1['e']=50
-demo1.update({'f':60,'g':70})
+pantry['Flour']=50
+pantry.update({'pepper':60,'olive oil':70})
 ~~~
 {: .language-python}
 
@@ -59,8 +59,8 @@ demo1.update({'f':60,'g':70})
 We can use the copy() method and the dict() function. We cannot simply do dictionary1=dictionary2 as it will only create a reference instead of copying the dictionary.
 
 ~~~
-demo2=demo1.copy()
-demo3=dict(demo1)
+pantry_copy_1=pantry.copy()
+pantry_copy_2=dict(pantry)
 ~~~
 {: .language-python}
 
@@ -69,21 +69,21 @@ demo3=dict(demo1)
 We use the pop() method and the del keyword to delete elements in dictionaries. We pass the key as an argument to indicate the value to be deleted
 
 ~~~
-demo1.pop('g')
-del demo1['f']
+pantry.pop('olive oil')
+del pantry['pepper']
 ~~~
 {: .language-python}
 
 the del keyword can delete the dictionary completely:
 ~~~
-del demo1
-print(demo1)
+del pantry
+print(pantry)
 ~~~
 {: .language-python}
 
 The clear() method is used to empty the dictionary.
 ~~~
-demo1.clear()
+pantry.clear()
 ~~~
 {: .language-python}
 
@@ -92,31 +92,37 @@ demo1.clear()
 
 A dictionary can dictionaries within itself. This is called a nested dictionary:
 ~~~
-demo4 = {
-  "letters" : {
-    "a" : "1",
-    "b" : 2
+pantry = {
+  "Pancakes" : {
+    "Flour" : 6,
+    "milk" : 2,
+    "Eggs": 3
+    "Butter" : 6
   },
-  "capital_letters" : {
-    "A" : "1",
-    "B" : 2
+  "French_toast" : {
+    "Bread" : "2",
+    "Eggs" : 2,
+    "Sugar" : 3
+    "milk" :1
   },
 }
 # or we can also do the following:
 
-letters = {
-  "a" : "1",
-  "b" : 2
-}
-capital_letters = {
-  "A" : "1",
-  "B" : 2
-}
-
-
-demo5 = {
-  "letters" : letters,
-  "capital_letters" : capital_letters
+Pancakes = {
+    "Flour" : 6,
+    "milk" : 2,
+    "Eggs": 3
+    "Butter" : 6
+  }
+French_toast = {
+    "Bread" : "2",
+    "Eggs" : 2,
+    "Sugar" : 3
+    "milk" :1
+  }
+pantry_2 = {
+  "Pancakes" : letters,
+  "French_toast" : capital_letters
 }
 ~~~
 {: .language-python}
