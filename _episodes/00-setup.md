@@ -23,6 +23,8 @@ Please download the following code to follow along with the workshop:
 [Part 1 practice exercise](../files/worksheet_1.ipynb) - implement concepts learned in part 1 (day 1).  
 [Part 1 exercise solution](../files/worksheet_1_solution.ipynb) - solution for practice exercise
 
+[Part 2 practice exercise](../files/Intro_Python_Exercise_part2.ipynb)
+
 
 ## Software setup
 We will be using Jupyter notebook for this workshop. We install the Anaconda navigator. Anaconda is an open source distribution, which provides the easiest way to code in python, especially for data science.
