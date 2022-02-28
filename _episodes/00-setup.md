@@ -16,7 +16,8 @@ To participate in this workshop, you will need to have the Anaconda distribution
 ## Code Files
 ### Workshop Code:
 Please download the following code to follow along with the workshop:  
-[Python Code Part 1](../files/Intro_Python_Code_Part1.ipynb) - used for part 1 (day 1).
+[Python Code Part 1](../files/Intro_Python_Code_Part1.ipynb) - used for part 1/day 1
+[Python Code Part 2](../files/Intro_Python_Code_part2.ipynb) - used for part 2/day 2
 
 ### Practice Code:
 [Part 1 practice exercise](../files/worksheet_1.ipynb) - implement concepts learned in part 1 (day 1).  
