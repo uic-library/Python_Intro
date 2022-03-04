@@ -24,6 +24,7 @@ Please download the following code to follow along with the workshop:
 [Part 1 exercise solution](../files/worksheet_1_solution.ipynb) - solution for practice exercise
 
 [Part 2 practice exercise](../files/Intro_Python_Exercise_part2.ipynb)
+[Part 2 exercise solution](../files/Intro_Python_Exercise_part2_solutions.ipynb) - solution for practice exercise part2
 
 
 ## Software setup
