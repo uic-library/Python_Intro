@@ -28,7 +28,6 @@ We will be using Google CoLab for this workshop. Check the video below to unders
 {% include install_instructions/python.html %}
 {% include install_instructions/virtual_lab.html %}
 
-{% comment %}
 
 {: .callout}
 
