@@ -1,4 +1,3 @@
-
 ---
 title: "Inputs and Outputs"
 teaching: 0
