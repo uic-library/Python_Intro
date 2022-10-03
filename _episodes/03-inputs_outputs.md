@@ -1,6 +1,6 @@
 
 ---
-title: "inputs and Outputs"
+title: "Inputs and Outputs"
 teaching: 0
 exercises: 0
 questions:
