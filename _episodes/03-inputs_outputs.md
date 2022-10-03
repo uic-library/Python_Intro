@@ -26,7 +26,7 @@ number= int(number)
 {: .language-python}
 
 
-## Output in Pythom
+## Output in Python
 You can display output using python
 ~~~
 print("Hello!")
