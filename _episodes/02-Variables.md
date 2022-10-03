@@ -8,26 +8,6 @@ questions:
 objectives:
 - "To understand variables and the rules of naming variables"
 ---
-## Indentation
-Unlike other programming languages that use brackets to indicate blocks of code, in python we use indentation.
-~~~
-for i in range(0,5):
-  print(i**2)
-  print(i)
-  print('In for loop')
-  print("block")
-~~~
-{: .language-python}
-
-Python will raise an error if you skip indentation. The number of spaces for each block is up to the programmer. However, it should be atleast one space and the number of spaces should be consistent through out that bloack of code.
-### Reading input from user:
-Python allows us to collect input from user using the input() fuction.
-~~~
-name=input('Enter your name:')
-print("Hello" + name)
-~~~
-{: .language-python}
-
 ## What are Variables?
 
 In python, we have constants and variables. A constant does not change its value over time. A variable is a container that is used to store values. The values of the variable can change in accordance to the manipulation being done on it.
