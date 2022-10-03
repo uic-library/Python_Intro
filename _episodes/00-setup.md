@@ -17,16 +17,12 @@ Click below to access the notebook to follow along with the workshop:
 
 https://colab.research.google.com/drive/1czwaMoF6N6jTzFxqgdiuZiONJfNpEtRj?usp=sharing
 
-[Python Code Part 1](../files/Intro_Python_Code_Part1.ipynb) - used for part 1/day 1  
 
 
 ### Practice Code:
 Remember to save a copy in your drive!(Click on FIle -> Save a copy in Drive)
 
 https://colab.research.google.com/drive/1BmqEY-rBiJGfmUxsUwxr0-nSVL1zPSwt?usp=sharing
-
-
-[Part 1 practice exercise](../files/worksheet_1.ipynb) - implement concepts learned in part 1 (day 1).  
 
 
 
