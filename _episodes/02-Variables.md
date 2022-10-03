@@ -1,5 +1,5 @@
 ---
-title: "Syntax and Variables"
+title: "Variables"
 teaching: 0
 exercises: 0
 questions:
