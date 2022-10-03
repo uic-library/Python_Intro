@@ -54,3 +54,19 @@ print("The number is %d" %num)
 ~~~
 {: .language-python}
 
+## Comments in Python:
+Comments are texts starting with '#' that are sprinked in the code. Python ignores these sentences while compilation. Comments are a great tool to - 
+- Improve readibilty
+- Explain code 
+- Testing code
+
+~~~
+r = int(input())
+v= (4/3)*(3.14)*(r**3)
+print(v)
+
+r = int(input()) #reading input, i.e radius
+v= (4/3)*(3.14)*(r**3) #calculate volume
+print(v) #print volume
+~~~
+{: .language-python}
