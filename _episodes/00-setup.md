@@ -15,14 +15,14 @@ To participate in this workshop, you will need to understand how to work with go
 ### Workshop Code:
 Click below to access the notebook to follow along with the workshop:
 
-https://colab.research.google.com/drive/1czwaMoF6N6jTzFxqgdiuZiONJfNpEtRj?usp=sharing
+[Python Workshop part 1](https://colab.research.google.com/drive/1czwaMoF6N6jTzFxqgdiuZiONJfNpEtRj?usp=sharing)
 
 
 
 ### Practice Code:
 Remember to save a copy in your drive!(Click on File -> Save a copy in Drive)
 
-https://colab.research.google.com/drive/1BmqEY-rBiJGfmUxsUwxr0-nSVL1zPSwt?usp=sharing
+[Worksheet 1](https://colab.research.google.com/drive/1BmqEY-rBiJGfmUxsUwxr0-nSVL1zPSwt?usp=sharing)
 
 
 
