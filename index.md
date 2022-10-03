@@ -25,7 +25,8 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 | ------- | ---------- |
 |[Setup](https://uic-library.github.io/Python_Intro/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|5 min|
 |[Introduction](https://uic-library.github.io/Python_Intro/01-introduction/index.html)    | Introduction to Python(What, Where amd Who)|5 min | 
-|[Variables](https://uic-library.github.io/Python_Intro/02-Variables/index.html)    | To understand variables and the rules of naming variables|6 min | 
+|[Variables](https://uic-library.github.io/Python_Intro/02-Variables/index.html)    | To understand variables and the rules of naming variables|6 min |
+|[Inputs and Outputs](https://uic-library.github.io/Python_Intro/03-inputs_outputs/index.html)    | To understand inputs and outputs in python|4 min |
 |[Datatypes](https://uic-library.github.io/Python_Intro/04-Datatypes/index.html)    | Learn about data types in python|15 min |
 |[Operations](https://uic-library.github.io/Python_Intro/05-Operations/index.html)    | Learn about basic operations in python|10 min | 
 |[Conditional Statements and Flow control](https://uic-library.github.io/Python_Intro/03-ConditionalStatements/index.html)    | Understand Conditional Statements and Control Flow statements|22 min | 
@@ -51,5 +52,5 @@ Thank you for attending this workshop or reading through the workshop material! 
 
 ## Next Up...
 Check out these workshops after you've completed this one:
-1. [Numpy and Pandas in python](https://uic-library.github.io/Python-Pandas-Numpy)
+1. [Text mining using Python](https://uic-library.github.io/Python-Pandas-Numpy)
 
