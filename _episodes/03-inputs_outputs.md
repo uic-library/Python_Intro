@@ -33,7 +33,6 @@ print("Hello!")
 name = "Digital Scholarship Hub"
 
 print(f'Hello {name}! How are you?')
-
 ~~~
 {: .language-python}
 
@@ -44,12 +43,11 @@ We can use ‘%’ operator. % values are replaced with zero or more value of el
 - %s – string
 - %x – hexadecimal
 - %o – octal
-~~~
 
+~~~
 num = int(input("Enter a value: "))
 
 print("The number is %d" %num)
-
 ~~~
 {: .language-python}
 
