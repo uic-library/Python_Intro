@@ -25,8 +25,7 @@ Please download the following code to follow along with the workshop:
 ## Software setup
 We will be using Google CoLab for this workshop. Check the video below to understand how to access and use google coLab.
 
-{% include install_instructions/python.html %}
-{% include install_instructions/virtual_lab.html %}
+https://drive.google.com/file/d/1Yt2cczk4u8Edp7HJiYMFrGMlkrSvE2MN/view?usp=sharing
 
 
 {: .callout}
