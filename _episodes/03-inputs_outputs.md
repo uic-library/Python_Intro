@@ -9,14 +9,14 @@ questions:
 
 ## Collect user input
 
-The 'input' method provides an easy way to coolect user input.
+The 'input' method provides an easy way to collect user input.
 ~~~
 
 name= input('What is your name?')
 ~~~
 {: .language-python}
 
-In python, all imputs are stored as strings. You can change the data type using type casting
+In python, all inputs are stored as strings. You can change the data type using type casting
 
 ~~~
 
