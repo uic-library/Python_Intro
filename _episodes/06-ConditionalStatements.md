@@ -8,10 +8,22 @@ questions:
 objectives:
 - "Understand Conditional Statements and Control Flow statements"
 ---
+## Indentation
+Unlike other programming languages that use brackets to indicate blocks of code, in python we use indentation.
+~~~
+for i in range(0,5):
+  print(i**2)
+  print(i)
+  print('In for loop')
+  print("block")
+~~~
+{: .language-python}
+
+Python will raise an error if you skip indentation. The number of spaces for each block is up to the programmer. However, it should be atleast one space and the number of spaces should be consistent through out that bloack of code.
 ## Conditional Statements
 Conditional statements provide us the ability to test a variable against a value and act in one way if the condition is met by the variable or another way if not.
 
-### If Statement
+## If Statement
 
 The IF statement is a decision-making statement that guides a program to make decisions based on specified criteria. The IF statement executes one set of code if a specified condition is met (TRUE) or another set of code evaluates to FALSE.
 
@@ -31,7 +43,7 @@ print('Done')
 
 ---
 
-### Elif Statement
+## Elif Statement
 
 The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE
 
