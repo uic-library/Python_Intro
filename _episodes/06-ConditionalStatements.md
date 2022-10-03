@@ -108,37 +108,6 @@ for x in ingredients:
 {: .language-python}
 > The for loop also has break and continue operators like the while loop
 
-## Syntax in Python
 
-### The print statement
-The print statement is used to display messages on the screen. The print statement displays everything in string format. 
-~~~
-print("Introduction to Python")
-s="Part"
-n=1
-print(s)
-print(n)
-print(2)
-~~~
-{: .language-python}
 
-### Indentation
-Unlike other programming languages that use brackets to indicate blocks of code, in python we use indentation.
-~~~
-for i in range(0,5):
-  print(i**2)
-  print(i)
-  print('In for loop')
-  print("block")
-~~~
-{: .language-python}
-
-Python will raise an error if you skip indentation. The number of spaces for each block is up to the programmer. However, it should be atleast one space and the number of spaces should be consistent through out that bloack of code.
-### Reading input from user:
-Python allows us to collect input from user using the input() fuction.
-~~~
-name=input('Enter your name:')
-print("Hello" + name)
-~~~
-{: .language-python}
 
