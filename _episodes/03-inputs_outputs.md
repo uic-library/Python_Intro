@@ -28,6 +28,7 @@ number= int(number)
 
 ## Output in Python
 You can display output using python
+
 ~~~
 print("Hello!")
 name = "Digital Scholarship Hub"
@@ -67,6 +68,8 @@ v= (4/3)*(3.14)*(r**3) #calculate volume
 print(v) #print volume
 ~~~
 {: .language-python}
+
+
 ### Multiline comments
 To comments multiple lines, we can insert a # at the beginning of every line
 ~~~
@@ -76,6 +79,7 @@ To comments multiple lines, we can insert a # at the beginning of every line
 i=0
 print(i)
 ~~~
+{: .language-python}
 
 Or, we can use a multiline string. We is triple quotes(''' ....... ''') for multiline string comments
 ~~~
@@ -89,3 +93,5 @@ while i<6:
  print(i)
  i=i+1
 ~~~
+{: .language-python}
+
