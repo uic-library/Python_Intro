@@ -15,7 +15,7 @@ According the python.org, Python is an interpreted, object-oriented, high-level 
 
 Python is easy to pick up. It has various in-built libraries that can be used to save time and effort. It is also very versatile, efficient and fast.
 
-### Whoe developed Python?
+### Who developed Python?
 
 Python was created by Guido van Rossum, and first released on February 20, 1991. He stated his goals for python as 
 - an easy and intuitive language just as powerful as those of the major competitors;
