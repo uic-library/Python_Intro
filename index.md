@@ -52,5 +52,5 @@ Thank you for attending this workshop or reading through the workshop material! 
 
 ## Next Up...
 Check out these workshops after you've completed this one:
-1. [Text mining using Python](https://uic-library.github.io/Python-Pandas-Numpy)
+1. [Text mining using Python](http://uic-library.github.io/Text-mining/)
 
