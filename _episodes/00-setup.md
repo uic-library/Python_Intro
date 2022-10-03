@@ -15,7 +15,7 @@ To participate in this workshop, you will need to understand how to work with go
 ### Workshop Code:
 Please download the following code to follow along with the workshop:
 
-[Access the note book from here]https://colab.research.google.com/drive/1czwaMoF6N6jTzFxqgdiuZiONJfNpEtRj?usp=sharing
+[Access the note book from here] https://colab.research.google.com/drive/1czwaMoF6N6jTzFxqgdiuZiONJfNpEtRj?usp=sharing
 
 [Python Code Part 1](../files/Intro_Python_Code_Part1.ipynb) - used for part 1/day 1  
 
