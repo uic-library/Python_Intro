@@ -29,7 +29,7 @@ Remember to save a copy in your drive!(Click on File -> Save a copy in Drive)
 ## Software setup
 We will be using Google CoLab for this workshop. Check the video below to understand how to access and use google coLab.
 
-https://drive.google.com/file/d/1Yt2cczk4u8Edp7HJiYMFrGMlkrSvE2MN/view?usp=sharing
+[Using Google CoLab](https://drive.google.com/file/d/1Yt2cczk4u8Edp7HJiYMFrGMlkrSvE2MN/view?usp=sharing)
 
 
 {: .callout}
