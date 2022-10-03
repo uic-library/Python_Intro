@@ -142,35 +142,3 @@ print("Hello" + name)
 ~~~
 {: .language-python}
 
-### Comments in Python
-
-In any programming language, we use comments to improve code readability and to help with documentation. Comments help us understand what a particular line of code does.
-
-#### Single line comments
-~~~
-i=0
-print(i) # Display the value of i
-~~~
-
-#### Multiline comments
-To comments multiple lines, we can insert a # at the beginning of every line
-~~~
-# this is
-# to demonstrate
-# multiline comments in python
-i=0
-print(i)
-~~~
-
-Or, we can use a multiline string. We is triple quotes(''' ....... ''') for multiline string comments
-~~~
-'''
-the following loop prints 
-the value of the variable i, 
-as long as it is less that 5
-'''
-i=0
-while i<6:
- print(i)
- i=i+1
-~~~
