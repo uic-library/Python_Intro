@@ -25,6 +25,10 @@ Remember to save a copy in your drive!(Click on File -> Save a copy in Drive)
 [Worksheet 1](https://colab.research.google.com/drive/1BmqEY-rBiJGfmUxsUwxr0-nSVL1zPSwt?usp=sharing)
 
 
+### Practice Code:
+Solution for Practice code - 
+[Worksheet 1]()
+
 
 ## Software setup
 We will be using Google CoLab for this workshop. Check the video below to understand how to access and use google coLab.
