@@ -30,12 +30,12 @@ Remember to save a copy in your drive!(Click on File -> Save a copy in Drive)
 [Worksheet 2](https://colab.research.google.com/drive/1MQh9A5CDiQXoOv7GqV0UDKz0NrEB_R52?usp=sharing)
 
 
-### Practice Code:
+### Solution:
 Solution for Practice code - 
 
 
 [Worksheet 1](https://colab.research.google.com/drive/1SS7WlbIitgMZ5KDR0W1HFtnHLpUOiZOD?usp=sharing)
-
+[Worksheet 2](https://colab.research.google.com/drive/1lfLxHd4Pm55jqve1xFBgVMCAOK7wOEVT?usp=sharing)
 
 ## Software setup
 We will be using Google CoLab for this workshop. Check the video below to understand how to access and use google coLab.
