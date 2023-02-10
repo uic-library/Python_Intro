@@ -18,7 +18,7 @@ Click below to access the notebook to follow along with the workshop:
 [Python Workshop part 1](https://colab.research.google.com/drive/1czwaMoF6N6jTzFxqgdiuZiONJfNpEtRj?usp=sharing)
 
 
-<!---  [Python Workshop part 2](https://colab.research.google.com/drive/1Yrsb_ZMXumd6hPb1PYWkjQoO4r4LWw9Q?usp=sharing)--->
+ [Python Workshop part 2](https://colab.research.google.com/drive/1Yrsb_ZMXumd6hPb1PYWkjQoO4r4LWw9Q?usp=sharing)
 
 
 ### Practice Code:
@@ -27,14 +27,14 @@ Remember to save a copy in your drive!(Click on File -> Save a copy in Drive)
 [Worksheet 1](https://colab.research.google.com/drive/1BmqEY-rBiJGfmUxsUwxr0-nSVL1zPSwt?usp=sharing)
 
 
-<!---[Worksheet 2](https://colab.research.google.com/drive/1MQh9A5CDiQXoOv7GqV0UDKz0NrEB_R52?usp=sharing)--->
+[Worksheet 2](https://colab.research.google.com/drive/1MQh9A5CDiQXoOv7GqV0UDKz0NrEB_R52?usp=sharing)
 
 
 ### Solution:
 Solution for Practice code - 
 
 
-<!---[Worksheet 1](https://colab.research.google.com/drive/1SS7WlbIitgMZ5KDR0W1HFtnHLpUOiZOD?usp=sharing)--->
+[Worksheet 1](https://colab.research.google.com/drive/1SS7WlbIitgMZ5KDR0W1HFtnHLpUOiZOD?usp=sharing)
 
 
 <!---[Worksheet 2](https://colab.research.google.com/drive/1lfLxHd4Pm55jqve1xFBgVMCAOK7wOEVT?usp=sharing)--->
